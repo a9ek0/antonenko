@@ -53,6 +53,8 @@ int main(void) {
     matrix_output(a, b, n);
 
     free_2d(a, n);
+    free(sum_arr);
+    free(sum_array2);
     return 0;
 }
 

@@ -3,6 +3,4 @@ project(1_laba_2s C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(1_laba_2s main.c)
-
 add_executable(main main.c)

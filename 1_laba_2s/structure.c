@@ -1,46 +1,5 @@
-#include <stdio.h>
 #include "structure.h"
-#include <stdlib.h>
-#include <string.h>
-#include <string.h>
-#include <windows.h>
-#define SWAP(A, B) { int t = A; A = B; B = t; }
-#define SWAP_FLT(A, B) { float t = A; A = B; B = t; }
-#define SWAP_STR(A, B) { char t[50]; strcpy(t, A); strcpy(A, B); strcpy(B, t); }
 
-
-/*typedef struct film
-{
-    char name[50];
-    float rating;
-    int length;
-    enum {clrDefault = 0, clrYellow, clrGreen, clrRed};
-}film_func;
-
-void arr_structure_print(struct film structure[], int num_of_elements);
-void arr_struct_create(struct film structure[], int num_of_elements);
-void init_struct_exam(struct film structure);
-void name_sort(struct film structure[], int num_of_elements);
-void rating_sort(struct film structure[], int num_of_elements);
-void length_sort(struct film structure[], int num_of_elements);
-void double_sort(struct film structure[], int num_of_elements);
-void set_text_color(int color);
-void dell_struct(struct film structure[], int film_name, int* num_of_elements);
-void init_struct_arr(struct film *structure, int *num_of_elements);
-film_func* init_struct(int *num_of_elements);
-void menu(film_func *structure, int num_of_elements);*/
-
-//////////////////////////////ПРОВЕРКИ НАДО СДЕЛАТЬ
-int main()
-{
-
-    int x = 0;
-    struct film *da;
-    menu(da, x);
-    return 0;
-}
-
-/*
 void menu(film_func *structure, int num_of_elements)
 {
     int a, k = 0;
@@ -49,46 +8,47 @@ void menu(film_func *structure, int num_of_elements)
     {
         if(strcmp("Stop", stop) == 0)
             break;
-    printf("1.Initiate structure array.\n"
-           "2.Enter structure array.\n"
-           "3.Sort structure.\n"
-           "4.Print structures.\n");
-    scanf_s("%d", &a);
-    switch (a)
-    {
-        case 1:
-            structure = init_struct(&num_of_elements);
-            k = 1;
-            break;
-        case 2:
-            if(k != 1)
-            {
-                printf("You didn't initialize the array.\n");
+        printf("1.Initiate structure array.\n"
+               "2.Enter structure array.\n"
+               "3.Sort structure.\n"
+               "4.Print structures.\n");
+        fflush(stdin);
+        scanf_s("%d", &a);
+        switch (a)
+        {
+            case 1:
+                structure = init_struct(&num_of_elements);
+                k = 1;
                 break;
-            }
-            arr_struct_create(structure, num_of_elements);
-            k = 2;
-            break;
-        case 3:
-            if(k != 2)
-            {
-                printf("You didn't fill/initialize the array.\n");
+            case 2:
+                if(k != 1)
+                {
+                    printf("You didn't initialize the array.\n");
+                    break;
+                }
+                arr_struct_create(structure, num_of_elements);
+                k = 2;
                 break;
-            }
-            double_sort(structure, num_of_elements);
-            break;
-        case 4:
-            arr_structure_print(structure, num_of_elements);
-            break;
-    }
-        printf("Enter <Stop> if you want to start sorting or <Continue> to add sorting fields.\n");
+            case 3:
+                if(k != 2)
+                {
+                    printf("You didn't fill/initialize the array.\n");
+                    break;
+                }
+                double_sort(structure, num_of_elements);
+                break;
+            case 4:
+                arr_structure_print(structure, num_of_elements);
+                break;
+        }
+        printf("Enter <Stop> if you want to exit or <Continue> to continue operations.\n");
         fflush(stdin);
         gets(stop);
         while(strcmp("Stop", stop) != 0 || strcmp("Continue", stop) != 0)
         {
             if(strcmp("Stop", stop) == 0 || strcmp("Continue", stop) == 0)
                 break;
-            printf("Wrong input. Enter <Stop> if you want to start sorting or <Continue> to add sorting fields.\n");
+            printf("Wrong input. Enter <Stop> if you want to exit or <Continue> to continue operations.\n\n");
             fflush(stdin);
             gets(stop);
         }
@@ -121,8 +81,8 @@ void dell_struct(struct film structure[], int film_name, int* num_of_elements)
 void set_text_color(int color)
 {
     HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
-	switch (color)
-	{
+    switch (color)
+    {
         case clrDefault:
             SetConsoleTextAttribute(handle, 7);
             break;
@@ -135,7 +95,7 @@ void set_text_color(int color)
         case clrRed:
             SetConsoleTextAttribute(handle, 4);
             break;
-	}
+    }
 }
 
 void double_sort(struct film structure[], int num_of_elements)
@@ -167,6 +127,11 @@ void double_sort(struct film structure[], int num_of_elements)
         if(k == 1)
         {
             scanf_s("%d", &second);
+            while(first == second)
+            {
+                printf("This field is already selected. Please select another field!\n");
+                scanf_s("%d", &second);
+            }
         }
         k++;
     }
@@ -174,9 +139,9 @@ void double_sort(struct film structure[], int num_of_elements)
     {
         for (int j = 0; j < num_of_elements - 1; ++j)
         {
-            if(strcmp(structure[j].name, structure[j + 1].name) >= 0 && (first == 1 || second == 1) && (structure[j].rating <= structure[j + 1].rating && (first == 2 || second == 2))
-            ||(strcmp(structure[j].name, structure[j + 1].name) >= 0 && (first == 1 || second == 1) && structure[j].length <= structure[j + 1].length && (first == 3 || second == 3))
-            ||(structure[j].rating <= structure[j + 1].rating && (first == 2 || second == 2) && (structure[j].length <= structure[j + 1].length && (first == 3 || second == 3))))
+            if((((int)structure[j].name[0] > (int)structure[j + 1].name[0]) && (first == 1 || second == 1) && (structure[j].rating <= structure[j + 1].rating && (first == 2 || second == 2)))
+               ||(((int)structure[j].name[0] > (int)structure[j + 1].name[0]) && (first == 1 || second == 1) && structure[j].length <= structure[j + 1].length && (first == 3 || second == 3))
+               ||(structure[j].rating <= structure[j + 1].rating && (first == 2 || second == 2) && (structure[j].length <= structure[j + 1].length && (first == 3 || second == 3))))
             {
                 SWAP_STR(structure[j].name, structure[j + 1].name);
                 SWAP(structure[j].length, structure[j + 1].length);
@@ -266,4 +231,3 @@ void arr_struct_create(struct film structure[], int num_of_elements)
         scanf_s("%f", &structure[i].rating);
     }
 }
-*/

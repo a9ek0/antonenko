@@ -12,7 +12,7 @@
 
 typedef struct film
 {
-    char name[50];
+    char *name;
     float rating;
     int length;
     enum {clrDefault = 0, clrYellow, clrGreen, clrRed};
@@ -26,9 +26,10 @@ void rating_sort(struct film structure[], int num_of_elements);
 void length_sort(struct film structure[], int num_of_elements);
 void double_sort(struct film structure[], int num_of_elements);
 void set_text_color(int color);
-void dell_struct(struct film structure[], int film_name, int* num_of_elements);
+void dell_struct(struct film structure[], int* num_of_elements);
 void init_struct_arr(struct film *structure, int *num_of_elements);
 film_func* init_struct(int *num_of_elements);
+film_func* realloc_struct(film_func *structure, int* new_size);
 void menu(film_func *structure, int num_of_elements);
 
 

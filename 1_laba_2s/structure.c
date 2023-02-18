@@ -3,15 +3,14 @@
 void menu(film_func *structure, int num_of_elements)
 {
     int a, k = 0;
-    char stop[10];
     while(k != 3)
     {
-        if(strcmp("Stop", stop) == 0)
-            break;
-        printf("1.Initiate structure array.\n"
+        printf("\n1.Initiate structure array.\n"
                "2.Enter structure array.\n"
                "3.Sort structure.\n"
-               "4.Print structures.\n");
+               "4.Print structures.\n"
+               "5.Delete structure from array.\n"
+               "6.Exit.\n");
         fflush(stdin);
         scanf_s("%d", &a);
         switch (a)
@@ -38,21 +37,33 @@ void menu(film_func *structure, int num_of_elements)
                 double_sort(structure, num_of_elements);
                 break;
             case 4:
+                if(k != 2)
+                {
+                    printf("You didn't fill/initialize the array.\n");
+                    break;
+                }
                 arr_structure_print(structure, num_of_elements);
                 break;
-        }
-        printf("Enter <Stop> if you want to exit or <Continue> to continue operations.\n");
-        fflush(stdin);
-        gets(stop);
-        while(strcmp("Stop", stop) != 0 || strcmp("Continue", stop) != 0)
-        {
-            if(strcmp("Stop", stop) == 0 || strcmp("Continue", stop) == 0)
+            case 5:
+            {
+                if(k != 2)
+                {
+                    printf("You didn't fill/initialize the array.\n");
+                    break;
+                }
+                dell_struct(structure, &num_of_elements);
                 break;
-            printf("Wrong input. Enter <Stop> if you want to exit or <Continue> to continue operations.\n\n");
-            fflush(stdin);
-            gets(stop);
+            }
+            case 6:
+                k = 3;
+                break;
         }
     }
+}
+
+film_func* realloc_struct(film_func *structure, int* new_size)
+{
+    return (film_func*) calloc(*new_size, sizeof (film_func));
 }
 
 film_func* init_struct(int *num_of_elements)
@@ -65,17 +76,23 @@ film_func* init_struct(int *num_of_elements)
     return films;
 }
 
-void dell_struct(struct film structure[], int film_name, int* num_of_elements)
+void dell_struct(struct film structure[], int* num_of_elements)
 {
-    int i = film_name;
-    *num_of_elements -= 1;
-    for (; i < *num_of_elements; i++)
+    int film_name;
+    printf("\nChoose film that you want to dellete.\n");
+    for (int k = 0; k < *num_of_elements; k++)
     {
-        strcpy(structure[i].name, structure[i + 1].name);
-        structure[i].length = structure[i + 1].length;
-        structure[i].rating = structure[i+ 1].rating;
+        printf("%d: %s\n", k, structure[k].name);
     }
-    structure = realloc(structure, *num_of_elements * sizeof (struct film));
+    scanf_s("%d", &film_name);
+    *num_of_elements -= 1;
+    for (; film_name < *num_of_elements; film_name++)
+    {
+        strcpy(structure[film_name].name, structure[film_name + 1].name);
+        structure[film_name].length = structure[film_name + 1].length;
+        structure[film_name].rating = structure[film_name+ 1].rating;
+    }
+    structure = realloc_struct(structure, num_of_elements);
 }
 
 void set_text_color(int color)
@@ -100,29 +117,15 @@ void set_text_color(int color)
 
 void double_sort(struct film structure[], int num_of_elements)
 {
-    char stop[10];
     int k = 0;
     int first = 0;
     int second = 0;
     while(k != 2)
     {
-        if(strcmp("Stop", stop) == 0)
-            break;
-        printf("Choose sorting field.\n 1.Sort by name.\n 2.Sort by rating.\n 3.Sort bu length");
+        printf("\nChoose sorting field.\n 1.Sort by name.\n 2.Sort by rating.\n 3.Sort by length\n");
         if(k == 0)
         {
             scanf_s( "%d", &first);
-            printf("Enter <Stop> if you want to start sorting or <Continue> to add sorting fields.\n");
-            fflush(stdin);
-            gets(stop);
-            while(strcmp("Stop", stop) != 0 || strcmp("Continue", stop) != 0)
-            {
-                if(strcmp("Stop", stop) == 0 || strcmp("Continue", stop) == 0)
-                    break;
-                printf("Wrong input. Enter <Stop> if you want to start sorting or <Continue> to add sorting fields.\n");
-                fflush(stdin);
-                gets(stop);
-            }
         }
         if(k == 1)
         {
@@ -135,6 +138,12 @@ void double_sort(struct film structure[], int num_of_elements)
         }
         k++;
     }
+    if(first == 1)
+        name_sort(structure, num_of_elements);
+    if(first == 2)
+        rating_sort(structure, num_of_elements);
+    if(first == 3)
+        length_sort(structure, num_of_elements);
     for (int i = 1; i < num_of_elements; ++i)
     {
         for (int j = 0; j < num_of_elements - 1; ++j)
@@ -201,6 +210,7 @@ void length_sort(struct film structure[], int num_of_elements)
 
 void arr_structure_print(struct film structure[], int num_of_elements)
 {
+    rewind(stdin);
     for (int i = 0; i < num_of_elements; ++i)
     {
         printf("\nName is: %s", structure[i].name);
@@ -214,16 +224,20 @@ void arr_structure_print(struct film structure[], int num_of_elements)
             set_text_color(clrRed);
         printf("%1.3f\n", structure[i].rating);
         set_text_color(clrDefault);
+        printf("\n");
     }
 }
 
 
 void arr_struct_create(struct film structure[], int num_of_elements)
 {
+    char buffer[100];
     for (int i = 0; i < num_of_elements; ++i)
     {
         printf("\nEnter Name\n");
-        scanf_s("%s", structure[i].name);
+        scanf_s("%s", buffer);
+        structure[i].name = (char *) calloc(strlen(buffer) + 1, sizeof(char));
+        strcpy(structure[i].name, buffer);
         fflush(stdin);
         printf("\nEnter Length\n");
         scanf_s("%d", &structure[i].length);

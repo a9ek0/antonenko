@@ -30,7 +30,7 @@ void init_struct_arr(struct film *structure, int *num_of_elements);
 film_func* init_struct(int *num_of_elements);
 void menu(film_func *structure, int num_of_elements);*/
 
-//////////////////////////////ПРОВЕРКИ НАДО СДЕЛАТЬ
+//////////////////////////////ПРОВЕРКИ НАДО СДЕЛАТЬ///////ДИНАМИЧЕСКОЕ НАЗВАНИЕ ЧЕРЕЗ СТРЛЕН + 1
 int main()
 {
 

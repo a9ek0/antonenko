@@ -1,6 +1,0 @@
-C:/Users/VLADM/Desktop/laba3/cmake-build-debug/CMakeFiles/laba3.dir
-C:/Users/VLADM/Desktop/laba3/cmake-build-debug/CMakeFiles/1.dir
-C:/Users/VLADM/Desktop/laba3/cmake-build-debug/CMakeFiles/2.dir
-C:/Users/VLADM/Desktop/laba3/cmake-build-debug/CMakeFiles/3.dir
-C:/Users/VLADM/Desktop/laba3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/VLADM/Desktop/laba3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

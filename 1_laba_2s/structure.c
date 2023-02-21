@@ -1,8 +1,16 @@
 #include "structure.h"
 
+void free_struct(film_func *structure, int num_of_elements)
+{
+    for(int i = 0; i < num_of_elements; i++)
+        free(structure[i].name);
+    free(structure);
+}
+
 void menu(film_func *structure, int num_of_elements)
 {
-    int a, k = 0;
+    int a;
+    int k = 0;
     while(k != 3)
     {
         printf("\n1.Initiate structure array.\n"
@@ -16,7 +24,7 @@ void menu(film_func *structure, int num_of_elements)
         switch (a)
         {
             case 1:
-                structure = init_struct(&num_of_elements);
+                init_struct(&structure, &num_of_elements);
                 k = 1;
                 break;
             case 2:
@@ -57,26 +65,33 @@ void menu(film_func *structure, int num_of_elements)
             case 6:
                 k = 3;
                 break;
+            default:
+                printf("Wrong input!");
+                break;
         }
     }
+    free_struct(structure, num_of_elements);
 }
 
-film_func* realloc_struct(film_func *structure, int* new_size)
+film_func* reallocate_structure(struct film **structure, const int* new_size)
 {
-    return (film_func*) calloc(*new_size, sizeof (film_func));
+    *structure = (film_func*)realloc(*structure, *new_size * sizeof (film_func));
 }
 
-film_func* init_struct(int *num_of_elements)
+
+film_func* allocate_structure(struct film **structure, const int* new_size)
 {
-    int size;
+    *structure = (film_func*)malloc(*new_size * sizeof (film_func));
+}
+
+film_func* init_struct(struct film **structure,int *num_of_elements)
+{
     printf("Enter number of structures in array.\n");
-    scanf_s("%d", &size);
-    film_func *films = (film_func *) calloc(size, sizeof(film_func));
-    *num_of_elements = size;
-    return films;
+    check_more_0(num_of_elements);
+    *structure = (film_func*)malloc(*num_of_elements * sizeof (film_func));
 }
 
-void dell_struct(struct film structure[], int* num_of_elements)
+void dell_struct(struct film *structure, int* num_of_elements)
 {
     int film_name;
     printf("\nChoose film that you want to dellete.\n");
@@ -84,7 +99,7 @@ void dell_struct(struct film structure[], int* num_of_elements)
     {
         printf("%d: %s\n", k, structure[k].name);
     }
-    scanf_s("%d", &film_name);
+    check(&film_name);
     *num_of_elements -= 1;
     for (; film_name < *num_of_elements; film_name++)
     {
@@ -92,75 +107,93 @@ void dell_struct(struct film structure[], int* num_of_elements)
         structure[film_name].length = structure[film_name + 1].length;
         structure[film_name].rating = structure[film_name+ 1].rating;
     }
-    structure = realloc_struct(structure, num_of_elements);
+    structure = reallocate_structure(&structure, num_of_elements);
 }
 
-void set_text_color(int color)
-{
+void set_text_color(int color) {
     HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
-    switch (color)
+
+        switch (color)
     {
         case clrDefault:
             SetConsoleTextAttribute(handle, 7);
-            break;
+        break;
         case clrYellow:
             SetConsoleTextAttribute(handle, 14);
-            break;
+        break;
         case clrGreen:
             SetConsoleTextAttribute(handle, 2);
-            break;
+        break;
         case clrRed:
             SetConsoleTextAttribute(handle, 4);
-            break;
+        break;
+        default:
+            printf("Wrong input!");
     }
+
 }
 
-void double_sort(struct film structure[], int num_of_elements)
+void double_sort(struct film *structure, int num_of_elements)
 {
-    int k = 0;
-    int first = 0;
-    int second = 0;
-    while(k != 2)
-    {
-        printf("\nChoose sorting field.\n 1.Sort by name.\n 2.Sort by rating.\n 3.Sort by length\n");
-        if(k == 0)
+    int first;
+    int second;
+    int cnt = 0;
+    int expression;
+    while(cnt != 2) {
+    printf("\nChoose sorting field.\n 1.Sort by name.\n 2.Sort by rating.\n 3.Sort by length\n");
+        if(cnt == 1)
         {
-            scanf_s( "%d", &first);
+            check_l4(&second);
+            expression = second;
         }
-        if(k == 1)
+        else
         {
-            scanf_s("%d", &second);
-            while(first == second)
-            {
-                printf("This field is already selected. Please select another field!\n");
-                scanf_s("%d", &second);
-            }
+            check_l4(&first);
+            expression = first;
         }
-        k++;
+        switch (expression) {
+            case 1:
+                name_sort(structure, num_of_elements);
+                break;
+            case 2:
+                rating_sort(structure, num_of_elements);
+                break;
+            case 3:
+                length_sort(structure, num_of_elements);
+                break;
+            default:
+                break;
+        }
+        cnt++;
     }
-    if(first == 1)
-        name_sort(structure, num_of_elements);
-    if(first == 2)
-        rating_sort(structure, num_of_elements);
-    if(first == 3)
-        length_sort(structure, num_of_elements);
+    param_sort(structure, num_of_elements, first, second);
+}
+
+void param_sort(struct film *structure, int num_of_elements, int first, int const second)
+{
+    int arr[5];
+    int length;
+    int rating;
     for (int i = 1; i < num_of_elements; ++i)
     {
         for (int j = 0; j < num_of_elements - 1; ++j)
         {
-            if((((int)structure[j].name[0] > (int)structure[j + 1].name[0]) && (first == 1 || second == 1) && (structure[j].rating <= structure[j + 1].rating && (first == 2 || second == 2)))
-               ||(((int)structure[j].name[0] > (int)structure[j + 1].name[0]) && (first == 1 || second == 1) && structure[j].length <= structure[j + 1].length && (first == 3 || second == 3))
-               ||(structure[j].rating <= structure[j + 1].rating && (first == 2 || second == 2) && (structure[j].length <= structure[j + 1].length && (first == 3 || second == 3))))
+            COMPARE(structure[j].length, structure[j + 1].length, length)
+            COMPARE(structure[j].rating, structure[j + 1].rating, rating)
+            arr[1] = strcmp(structure[j].name, structure[j + 1].name);
+            arr[2] = rating;
+            arr[3] = length;
+            if(arr[first] > 0 && arr[second] > 0)
             {
-                SWAP_STR(structure[j].name, structure[j + 1].name);
-                SWAP(structure[j].length, structure[j + 1].length);
-                SWAP_FLT(structure[j].rating, structure[j + 1].rating);
+                SWAP_STR(structure[j].name, structure[j + 1].name)
+                SWAP(structure[j].length, structure[j + 1].length)
+                SWAP_FLT(structure[j].rating, structure[j + 1].rating)
             }
         }
     }
 }
 
-void name_sort(struct film structure[], int num_of_elements)
+void name_sort(struct film *structure, int num_of_elements)
 {
     for (int i = 1; i < num_of_elements; ++i)
     {
@@ -168,15 +201,15 @@ void name_sort(struct film structure[], int num_of_elements)
         {
             if(strcmp(structure[j].name, structure[j + 1].name) > 0)
             {
-                SWAP_STR(structure[j].name, structure[j + 1].name);
-                SWAP(structure[j].length, structure[j + 1].length);
-                SWAP_FLT(structure[j].rating, structure[j + 1].rating);
+                SWAP_STR(structure[j].name, structure[j + 1].name)
+                SWAP(structure[j].length, structure[j + 1].length)
+                SWAP_FLT(structure[j].rating, structure[j + 1].rating)
             }
         }
     }
 }
 
-void rating_sort(struct film structure[], int num_of_elements)
+void rating_sort(struct film *structure, int num_of_elements)
 {
     for (int i = 1; i < num_of_elements; ++i)
     {
@@ -184,15 +217,15 @@ void rating_sort(struct film structure[], int num_of_elements)
         {
             if(structure[j].rating < structure[j + 1].rating)
             {
-                SWAP_STR(structure[j].name, structure[j + 1].name);
-                SWAP(structure[j].length, structure[j + 1].length);
-                SWAP_FLT(structure[j].rating, structure[j + 1].rating);
+                SWAP_STR(structure[j].name, structure[j + 1].name)
+                SWAP(structure[j].length, structure[j + 1].length)
+                SWAP_FLT(structure[j].rating, structure[j + 1].rating)
             }
         }
     }
 }
 
-void length_sort(struct film structure[], int num_of_elements)
+void length_sort(struct film *structure, int num_of_elements)
 {
     for (int i = 1; i < num_of_elements; ++i)
     {
@@ -200,15 +233,15 @@ void length_sort(struct film structure[], int num_of_elements)
         {
             if(structure[j].length < structure[j + 1].length)
             {
-                SWAP_STR(structure[j].name, structure[j + 1].name);
-                SWAP(structure[j].length, structure[j + 1].length);
-                SWAP_FLT(structure[j].rating, structure[j + 1].rating);
+                SWAP_STR(structure[j].name, structure[j + 1].name)
+                SWAP(structure[j].length, structure[j + 1].length)
+                SWAP_FLT(structure[j].rating, structure[j + 1].rating)
             }
         }
     }
 }
 
-void arr_structure_print(struct film structure[], int num_of_elements)
+void arr_structure_print(struct film *structure, int num_of_elements)
 {
     rewind(stdin);
     for (int i = 0; i < num_of_elements; ++i)
@@ -229,7 +262,7 @@ void arr_structure_print(struct film structure[], int num_of_elements)
 }
 
 
-void arr_struct_create(struct film structure[], int num_of_elements)
+void arr_struct_create(struct film *structure, int num_of_elements)
 {
     char buffer[100];
     for (int i = 0; i < num_of_elements; ++i)
@@ -243,5 +276,32 @@ void arr_struct_create(struct film structure[], int num_of_elements)
         scanf_s("%d", &structure[i].length);
         printf("\nEnter Rating\n");
         scanf_s("%f", &structure[i].rating);
+    }
+}
+
+void check_more_0(int *value)
+{
+    while (scanf_s("%d", value) == 0 || *value < 0 || getchar() !='\n')
+    {
+        printf("Wrong input");
+        rewind(stdin);
+    }
+}
+
+void check(int *value)
+{
+    while (scanf_s("%d", value) == 0 || getchar() !='\n')
+    {
+        printf("Wrong input");
+        rewind(stdin);
+    }
+}
+
+void check_l4(int *value)
+{
+    while (scanf_s("%d", value) == 0 || getchar() !='\n' || *value > 3)
+    {
+        printf("Wrong input");
+        rewind(stdin);
     }
 }

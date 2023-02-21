@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.23)
-project(1_laba_2s)
+project(sonar_scanner_example)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(1_laba_2s/main.c)
+add_executable(sonar_scanner_example 1_laba_2s/main.c)

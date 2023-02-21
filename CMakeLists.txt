@@ -3,4 +3,4 @@ project(sonar_scanner_example)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(sonar_scanner_example 1_laba_2s/main.c)
+add_executable(sonar_scanner_example laba3/1.c)

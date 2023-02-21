@@ -88,7 +88,7 @@ film_func* init_struct(struct film **structure,int *num_of_elements)
 {
     printf("Enter number of structures in array.\n");
     check_more_0(num_of_elements);
-    *structure = (film_func*)malloc(*num_of_elements * sizeof (film_func));
+    *structure = (film_func*)realloc(*structure, *num_of_elements * sizeof (film_func));
 }
 
 void dell_struct(struct film *structure, int* num_of_elements)
@@ -99,15 +99,15 @@ void dell_struct(struct film *structure, int* num_of_elements)
     {
         printf("%d: %s\n", k, structure[k].name);
     }
-    check(&film_name);
     *num_of_elements -= 1;
-    for (; film_name < *num_of_elements; film_name++)
+    check(&film_name);
+    for (int i = film_name ; i < *num_of_elements; i++)
     {
-        strcpy(structure[film_name].name, structure[film_name + 1].name);
-        structure[film_name].length = structure[film_name + 1].length;
-        structure[film_name].rating = structure[film_name+ 1].rating;
+        strcpy(structure[i].name, structure[i + 1].name);
+        structure[i].length = structure[i + 1].length;
+        structure[i].rating = structure[i+ 1].rating;
     }
-    structure = reallocate_structure(&structure, num_of_elements);
+    reallocate_structure(&structure, num_of_elements);
 }
 
 void set_text_color(int color) {
@@ -172,17 +172,13 @@ void double_sort(struct film *structure, int num_of_elements)
 void param_sort(struct film *structure, int num_of_elements, int first, int const second)
 {
     int arr[5];
-    int length;
-    int rating;
     for (int i = 1; i < num_of_elements; ++i)
     {
         for (int j = 0; j < num_of_elements - 1; ++j)
         {
-            COMPARE(structure[j].length, structure[j + 1].length, length)
-            COMPARE(structure[j].rating, structure[j + 1].rating, rating)
+            COMPARE(structure[j].length, structure[j + 1].length, arr[1])
+            COMPARE(structure[j].rating, structure[j + 1].rating, arr[2])
             arr[1] = strcmp(structure[j].name, structure[j + 1].name);
-            arr[2] = rating;
-            arr[3] = length;
             if(arr[first] > 0 && arr[second] > 0)
             {
                 SWAP_STR(structure[j].name, structure[j + 1].name)
@@ -288,9 +284,9 @@ void check_more_0(int *value)
     }
 }
 
-void check(int *value)
+void check_in_range(int *value, int left_boarder, int right_boarder)
 {
-    while (scanf_s("%d", value) == 0 || getchar() !='\n')
+    while (scanf_s("%d", value) == 0 || getchar() !='\n' || *value > right_boarder || *value < left_boarder)
     {
         printf("Wrong input");
         rewind(stdin);
@@ -300,6 +296,15 @@ void check(int *value)
 void check_l4(int *value)
 {
     while (scanf_s("%d", value) == 0 || getchar() !='\n' || *value > 3)
+    {
+        printf("Wrong input");
+        rewind(stdin);
+    }
+}
+
+void check(int *value)
+{
+    while (scanf_s("%d", value) == 0 || getchar() !='\n')
     {
         printf("Wrong input");
         rewind(stdin);

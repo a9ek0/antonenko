@@ -39,6 +39,7 @@ void free_struct(film_func *structure, int num_of_elements);
 void check_more_0(int *value);
 void check(int *value);
 void check_l4(int *value);
+void check_in_range(int *value, int left_boarder, int right_boarder);
 
 
 _Noreturn void menu(film_func *structure, int num_of_elements);

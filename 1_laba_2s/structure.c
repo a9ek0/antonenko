@@ -15,10 +15,11 @@ void menu(film_func *structure, int *num_of_elements)
     {
         printf("\n1.Initiate structure array.\n"
                "2.Enter structure array.\n"
-               "3.Sort structure.\n"
-               "4.Print structures.\n"
+               "3.Dual sort structures.\n"
+               "4.Single sort structures\n"
                "5.Delete structure from array.\n"
-               "6.Exit.\n");
+               "6.Print structures.\n"
+               "7.Exit.\n");
         fflush(stdin);
         scanf_s("%d", &a);
         switch (a)
@@ -50,7 +51,7 @@ void menu(film_func *structure, int *num_of_elements)
                     printf("You didn't fill/initialize the array.\n");
                     break;
                 }
-                arr_structure_print(structure, *num_of_elements);
+                single_sort(structure, *num_of_elements);
                 break;
             case 5:
             {
@@ -63,6 +64,14 @@ void menu(film_func *structure, int *num_of_elements)
                 break;
             }
             case 6:
+                if(k != 2)
+                {
+                    printf("You didn't fill/initialize the array.\n");
+                    break;
+                }
+                arr_structure_print(structure, *num_of_elements);
+                break;
+            case 7:
             {
                 k = 3;
                 break;
@@ -138,6 +147,32 @@ void set_text_color(int color) {
 
 }
 
+void single_sort(struct film *structure, int num_of_elements)
+{
+    int expression = 0;
+    while(expression != -1) {
+        printf("\nChoose sorting field.\n 1.Sort by name.\n 2.Sort by rating.\n 3.Sort by length\n 4.Exit\n");
+        check_in_range(&expression, 0, 4);
+        switch (expression) {
+            case 1:
+                name_sort(structure, num_of_elements);
+                break;
+            case 2:
+                rating_sort(structure, num_of_elements);
+                break;
+            case 3:
+                length_sort(structure, num_of_elements);
+                break;
+            case 4:
+                expression = -1;
+                break;
+            default:
+                printf("Wrong input\n");
+                break;
+        }
+    }
+}
+
 void double_sort(struct film *structure, int num_of_elements)
 {
     int first;
@@ -148,11 +183,11 @@ void double_sort(struct film *structure, int num_of_elements)
         if(cnt == 1)
         {
             check_l4(&second);
+            check_same(&second, &first);
         }
         else
             check_l4(&first);
 
-        check_same(&second, &first);
         switch (first) {
             case 1:
                 name_sort(structure, num_of_elements);

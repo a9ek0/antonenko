@@ -28,7 +28,11 @@ void init_struct_exam(struct film *structure);
 void name_sort(struct film *structure, int num_of_elements);
 void rating_sort(struct film *structure, int num_of_elements);
 void length_sort(struct film *structure, int num_of_elements);
+
 void double_sort(struct film *structure, int num_of_elements);
+void single_sort(struct film *structure, int num_of_elements);
+
+
 void set_text_color(int color);
 void dell_struct(struct film *structure, int* num_of_elements);
 void init_struct_arr(struct film *structure, int *num_of_elements);

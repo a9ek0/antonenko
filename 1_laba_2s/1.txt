@@ -1,17 +1,16 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" dir="ltr" lang="ru" prefix="og: http://ogp.me/ns# video: http://ogp.me/ns/video# ya: http://webmaster.yandex.ru/vocabularies/">
 <head profile="http://gmpg.org/xfn/11">
-    <title>Профиль: EvilArthas - Оценки</title>
+    <title>РџСЂРѕС„РёР»СЊ: EvilArthas - РћС†РµРЅРєРё</title>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta property="fb:app_id" content="121953784483000"/>
-    <meta name="application-name" content="Кинопоиск">
+    <meta name="application-name" content="РљРёРЅРѕРїРѕРёСЃРє">
     <meta content="width=960" name="viewport" />
     <meta property="fb:pages" content="152308956519" />
 
-    <link rel="search" type="application/opensearchdescription+xml" title="Поиск на kinopoisk.ru" href="/kp_search.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="РџРѕРёСЃРє РЅР° kinopoisk.ru" href="/kp_search.xml" />
     <meta name="msapplication-TileColor" content="#000">
     <meta name="msapplication-TileImage" content="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-144.png">
     <meta name="msapplication-config" content="https://st2.kp.yandex.net/public/xml/ieconfig.xml?v=1">
@@ -30,11 +29,11 @@
     <link href="/news.rss" type="application/rss+xml" rel="alternate" title="RSS"/>
         <link rel="stylesheet" type="text/css" href="https://st1.kp.yandex.net/js/style.css?v=1" media="all"/>
 
-    <meta property="og:site_name" content="Кинопоиск" />
-<meta name="description" content="Поиск фильмов, начиная с 1890 года. Новости кино, отзывы пользователей, афиша кинотеатров Москвы и Питера. Обои, фотографии, постеры, трейлеры, кассовые сборы и многое другое." />
-<meta property="og:description" content="Поиск фильмов, начиная с 1890 года. Новости кино, отзывы пользователей, афиша кинотеатров Москвы и Питера. Обои, фотографии, постеры, трейлеры, кассовые сборы и многое другое." />
-<meta property="twitter:description" content="Поиск фильмов, начиная с 1890 года. Новости кино, отзывы пользователей, афиша кинотеатров Москвы и Питера. Обои, фотографии, постеры, трейлеры, кассовые сборы и многое другое." />
-<meta name="keywords" content="фильм фильмы поиск кино обои афиша новости обзоры сегодня в кино скоро кассовые сборы кинотеатры актер актеры актриса режиссер сценарист фото фотография постер саундтреки" />
+    <meta property="og:site_name" content="РљРёРЅРѕРїРѕРёСЃРє" />
+<meta name="description" content="РџРѕРёСЃРє С„РёР»СЊРјРѕРІ, РЅР°С‡РёРЅР°СЏ СЃ 1890 РіРѕРґР°. РќРѕРІРѕСЃС‚Рё РєРёРЅРѕ, РѕС‚Р·С‹РІС‹ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, Р°С„РёС€Р° РєРёРЅРѕС‚РµР°С‚СЂРѕРІ РњРѕСЃРєРІС‹ Рё РџРёС‚РµСЂР°. РћР±РѕРё, С„РѕС‚РѕРіСЂР°С„РёРё, РїРѕСЃС‚РµСЂС‹, С‚СЂРµР№Р»РµСЂС‹, РєР°СЃСЃРѕРІС‹Рµ СЃР±РѕСЂС‹ Рё РјРЅРѕРіРѕРµ РґСЂСѓРіРѕРµ." />
+<meta property="og:description" content="РџРѕРёСЃРє С„РёР»СЊРјРѕРІ, РЅР°С‡РёРЅР°СЏ СЃ 1890 РіРѕРґР°. РќРѕРІРѕСЃС‚Рё РєРёРЅРѕ, РѕС‚Р·С‹РІС‹ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, Р°С„РёС€Р° РєРёРЅРѕС‚РµР°С‚СЂРѕРІ РњРѕСЃРєРІС‹ Рё РџРёС‚РµСЂР°. РћР±РѕРё, С„РѕС‚РѕРіСЂР°С„РёРё, РїРѕСЃС‚РµСЂС‹, С‚СЂРµР№Р»РµСЂС‹, РєР°СЃСЃРѕРІС‹Рµ СЃР±РѕСЂС‹ Рё РјРЅРѕРіРѕРµ РґСЂСѓРіРѕРµ." />
+<meta property="twitter:description" content="РџРѕРёСЃРє С„РёР»СЊРјРѕРІ, РЅР°С‡РёРЅР°СЏ СЃ 1890 РіРѕРґР°. РќРѕРІРѕСЃС‚Рё РєРёРЅРѕ, РѕС‚Р·С‹РІС‹ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, Р°С„РёС€Р° РєРёРЅРѕС‚РµР°С‚СЂРѕРІ РњРѕСЃРєРІС‹ Рё РџРёС‚РµСЂР°. РћР±РѕРё, С„РѕС‚РѕРіСЂР°С„РёРё, РїРѕСЃС‚РµСЂС‹, С‚СЂРµР№Р»РµСЂС‹, РєР°СЃСЃРѕРІС‹Рµ СЃР±РѕСЂС‹ Рё РјРЅРѕРіРѕРµ РґСЂСѓРіРѕРµ." />
+<meta name="keywords" content="С„РёР»СЊРј С„РёР»СЊРјС‹ РїРѕРёСЃРє РєРёРЅРѕ РѕР±РѕРё Р°С„РёС€Р° РЅРѕРІРѕСЃС‚Рё РѕР±Р·РѕСЂС‹ СЃРµРіРѕРґРЅСЏ РІ РєРёРЅРѕ СЃРєРѕСЂРѕ РєР°СЃСЃРѕРІС‹Рµ СЃР±РѕСЂС‹ РєРёРЅРѕС‚РµР°С‚СЂС‹ Р°РєС‚РµСЂ Р°РєС‚РµСЂС‹ Р°РєС‚СЂРёСЃР° СЂРµР¶РёСЃСЃРµСЂ СЃС†РµРЅР°СЂРёСЃС‚ С„РѕС‚Рѕ С„РѕС‚РѕРіСЂР°С„РёСЏ РїРѕСЃС‚РµСЂ СЃР°СѓРЅРґС‚СЂРµРєРё" />
 <link rel="canonical" href="https://bk.kp.yandex.net/user/2092256/votes/list/vs/vote/" />
 
 
@@ -219,7 +218,7 @@
                         .feature_promo {
                             margin-bottom: 40px;
                         }
-                    </style><div class="promo-partial-component" style="bottom:40px" data-tid="dd5f0271"><div class="foxad foxad_theme_default" data-tid="2cff2d30"><div id="adfox_15626875611296678" class="foxad__container"></div></div><span class="promo-partial-component__close"></span></div><header class="F1eiUNVaPy3QX5LmvDQE PSC22a50iqTkDyBpXVTQ" data-tid="63b05890"><div class="header-navigation wcJl6bcgAVkRoFsc0_eo OFFhyFpjZOUZunWhZQmc"><div class="aMfgWQBTIY0uss0h37VA"><div class="pLMZR2nAdhFF6iOtDNzu" data-tid="911e2f4d"><div class=""><button class="yXbuMLSYfq8mLy4xl1kw yQ5D7nSpK9mGaaxW9KeA" type="button" data-tid="8ed90190"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M21 7.102H3v-2.4h18v2.4Zm0 6H3v-2.4h18v2.4Zm0 6H3v-2.4h18v2.4Z" fill="#999999"></path></svg></button><div class="lTUcYCrgF6rA3EK1u5AI sJmbgCxTUMocv9mV1IdA EFYsbOlgmZFqJ6PQDI8Q" data-tid="585eb7c0"><div class="NjIy5Qr_25DiVhkD2TRR jsAHY6EGlNi7UzRJIlsg xyLSLlOABSCB3MtF81wf"><div class="Sye748kIGKR6_1o5fbVg TCUaKSA2SaXvgkEbUu1t" data-tid="e500879d"><a href="/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/61205/a7775b8cfeb0024b6fb4fe0ee125e284b8ac8a1f/orig" data-tid="b35288c1"/>Главная</a><a href="https://hd.kinopoisk.ru/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/994123/9589a3fd442af2ca26c14e6d6e539d30399eb29c/orig" data-tid="b35288c1"/>Онлайн-кинотеатр</a><a href="/lists/categories/movies/1/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/994123/bf58cac09c0da90eba5358d5c37abe9c689103c5/orig" data-tid="b35288c1"/>Фильмы</a><a href="/lists/categories/movies/3/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/120922/c5487daa04b8f27021f64ab83b20a6459c1819ff/orig" data-tid="b35288c1"/>Сериалы</a><a href="/afisha/new/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/135516/90382ec02b0e6da6a6a0926260378272c180caa9/orig" data-tid="b35288c1"/>Билеты в кино</a><a href="/media/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/61205/688ea4a84561dc943dfa9db0d37e1553a96166df/orig" data-tid="b35288c1"/>Медиа</a></div></div></div></div><a class="msMehWzmLAVwfQcmxv8w uW96Br00hFkFKc_Vc7HM" href="/" aria-label="Кинопоиск" data-tid="79e4350"><img class="Tz6jKbE7Yc1fjKO9M1sa kinopoisk-header-logo__img" alt="Кинопоиск" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTY0IiBoZWlnaHQ9IjM2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNTguODU5IDE4YzAtNS44ODkgMi45NTQtMTAuNiA4LjI4MS0xMC42IDUuMzI4IDAgOC4yODEgNC43MTEgOC4yODEgMTAuNiAwIDUuODktMi45NTQgMTAuNi04LjI4IDEwLjYtNS4zMjggMC04LjI4Mi00LjcxLTguMjgyLTEwLjZabTguMjgxIDcuNjZjMi4wNzIgMCAyLjk1NC0zLjUzNCAyLjk1NC03LjY1MiAwLTQuMTItLjg4OS03LjY1Mi0yLjk1NC03LjY1Mi0yLjA2NSAwLTIuOTU0IDMuNTMzLTIuOTU0IDcuNjUyLS4wMDcgNC4xMTguODgyIDcuNjUyIDIuOTU0IDcuNjUyWk0zLjg0MyA3Ljd2NS41OTZoLjI5NEw3Ljk4IDcuN2g1LjMybC03LjA5OCA2LjQ3NC4yOTQuMjkzTDE5LjUxIDcuNjkzdjQuNzExTDcuOTczIDE2LjUyM3YuMjkybDExLjUzNy0xLjAyOHY0LjQxOUw3Ljk3MyAxOS4xNzh2LjI5M2wxMS41MzcgNC4xMTh2NC43MTJMNi40OTYgMjEuNTI2bC0uMjk0LjI5MyA3LjA5OCA2LjQ3NEg3Ljk4bC0zLjg0My01LjU5NmgtLjI5NHY1LjU5NkgwVjcuNjg2aDMuODQzVjcuN1ptMTkuMjMgMEgyOC4xbC0uMjk0IDEyLjM2M2guMjk0TDM0LjAxNSA3LjdoNC40Mzh2MjAuNjA4aC01LjAyNmwuMjk0LTEyLjM2NGgtLjI5NEwyNy41MSAyOC4zMDloLTQuNDM4VjcuN1ptMjMuOTU1IDBoLTUuMDI2djIwLjYwOGg1LjAyNnYtOS4xM2g0LjEzN3Y5LjEzaDUuMDI2VjcuN2gtNS4wMjZ2Ny45NTJoLTQuMTM3VjcuN1ptNDUuMjUgMGgtMTQuMTl2MjAuNjA4aDUuMDI3VjExLjIzM2g0LjEzN3YxNy4wNzVoNS4wMjZWNy43Wm0yLjY2IDEwLjNjMC01Ljg4OSAyLjk1NC0xMC42IDguMjgyLTEwLjYgNS4zMiAwIDguMjgxIDQuNzExIDguMjgxIDEwLjYgMCA1Ljg5LTIuOTU0IDEwLjYtOC4yODEgMTAuNi01LjMyIDAtOC4yODItNC43MS04LjI4Mi0xMC42Wm04LjI4MiA3LjY2YzIuMDcyIDAgMi45NTQtMy41MzQgMi45NTQtNy42NTIgMC00LjEyLS44ODktNy42NTItMi45NTQtNy42NTItMi4wNzIgMC0yLjk1NCAzLjUzMy0yLjk1NCA3LjY1MiAwIDQuMTE4Ljg4MiA3LjY1MiAyLjk1NCA3LjY1MlpNMTE5LjE4NyA3LjdoLTUuMDI2djIwLjYwOGg0LjQzOGw1LjkxNi0xMi4zNjRoLjI5NGwtLjI5NCAxMi4zNjRoNS4wMjZWNy43aC00LjQzOGwtNS45MTYgMTIuMzYzaC0uMjk0bC4yOTQtMTIuMzYzWm0yMy42NjkgMTMuNTQxIDQuNzMyLjU4NWMtLjg4OSA0LjEyLTIuOTU0IDYuNzc0LTcuMzY0IDYuNzc0LTUuMzIgMC04LjAxNi00LjcxLTguMDE2LTEwLjYgMC01Ljg4OSAyLjY4OS0xMC42IDguMDE2LTEwLjYgNC4zMTcgMCA2LjQ3NSAyLjY0OSA3LjM2NCA2LjQ3NWwtNC43MzIgMS4xNzdjLS4yOTQtMi4wNjMtMS4xNTUtNC43MS0yLjYzMi00LjcxLTEuNzcxIDAtMi42ODkgMy41MzMtMi42ODkgNy42NTEgMCA0LjA5LjkxOCA3LjY1MiAyLjY4OSA3LjY1MiAxLjQ0OS4wMTUgMi4zMy0yLjM0MSAyLjYzMi00LjQwNFptMTEuODMtMTMuNTRoLTQuNzMydjIwLjYwN2g0LjczMnYtOS4xM2guMjk0bDMuNTQ5IDkuMTNIMTY0bC01LjE3Ny0xMC42TDE2My44NDkgNy43aC01LjAyNmwtMy44NDMgOS4xM2gtLjI5NFY3LjdaIiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg=="/></a></div></div><div class="X20_NjlpDPlTkbuok4rx j6GoV3WaDRoUkwD8au2A"><div class="ArscTgpab2agRvZhPYWB"><nav class="uUDLV3vKTlX0gghIsJeU kinopoisk-header-featured-menu mJNXX7ycWm2jhZkbDvck" data-tid="78f04c5d"><a class="HewSW_lsZ1vm_FFxdXik vQi0EgnSLg57Ndz9t7rI kinopoisk-header-featured-menu__item" href="https://hd.kinopoisk.ru/" target="_self" data-tid="acc26a70"><img aria-label="presentation" class="HzJij8Eyy92SV4Ad5Jxw _VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/7230b4c753cc9d0928a4802b1ae08ccf7cb7d245/orig" srcSet="" data-tid="b35288c1"/><img aria-label="presentation" class="_VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/50064/15d30528c2394db32f9624a0fa4ff244f79d8c7c/orig" srcSet="" data-tid="b35288c1"/>Онлайн-кинотеатр</a><a class="HewSW_lsZ1vm_FFxdXik vQi0EgnSLg57Ndz9t7rI kinopoisk-header-featured-menu__item" href="https://www.kinopoisk.ru/special/oscar/?utm_source=kinopoisk&amp;utm_medium=selfpromo_kp&amp;utm_campaign=button_header" target="_blank" data-tid="acc26a70"><img aria-label="presentation" class="HzJij8Eyy92SV4Ad5Jxw _VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/08602b626fe43b66fcd3fa51eb0036a592fd5769/orig" srcSet="" data-tid="b35288c1"/><img aria-label="presentation" class="_VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/3d335bf4d3e327ce353d6e662260a0fa50809693/orig" srcSet="" data-tid="b35288c1"/>Оскар-2023</a></nav></div><div class="dYqkZsYev763FwS59js3"><div class="ANqFTQtmUIkLdxyiuvHX z4iVv0UXxWLfrQf1pgIC" data-tid="8d7d7cbd"><form class="PxhYm_eY_wPIfKcQuMws" action="/index.php"><div class="SPvzKZuHcHDgthtQB0iw fzZ5G8oKiAZ3HYzWf9gF" data-tid="b0e8f9b"><input type="text" name="kp_query" class="UnxoJ4nUSkuPXF9CyGhq kinopoisk-header-search-form-input__input" autoComplete="off" aria-label="Фильмы, сериалы, персоны" placeholder="Фильмы, сериалы, персоны" value="" required=""/><div class="eHMm7KHEGFApsLYSTfc9 kinopoisk-header-search-form-input__control-container"><a href="/s/" class="o_KSzBSF8pfTnCzlRvkI" aria-label="advanced-search" tabindex="-1"><svg class="c1wHrX0nYR4Zk_nNlgHG" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.2917 7.58317C12.913 7.58317 13.4167 7.07949 13.4167 6.45817C13.4167 5.83685 12.913 5.33317 12.2917 5.33317C11.6704 5.33317 11.1667 5.83685 11.1667 6.45817C11.1667 7.07949 11.6704 7.58317 12.2917 7.58317ZM15.2533 7.45817C14.8363 8.69363 13.6679 9.58317 12.2917 9.58317C10.9155 9.58317 9.74712 8.69363 9.33011 7.45817H2.08335V5.45817H9.33011C9.74712 4.22271 10.9155 3.33317 12.2917 3.33317C13.6679 3.33317 14.8363 4.22271 15.2533 5.45817H17.9167V7.45817H15.2533ZM7.70835 12.4165C7.08703 12.4165 6.58335 12.9202 6.58335 13.5415C6.58335 14.1628 7.08703 14.6665 7.70835 14.6665C8.32967 14.6665 8.83335 14.1628 8.83335 13.5415C8.83335 12.9202 8.32967 12.4165 7.70835 12.4165ZM4.74678 14.5415H2.08335V12.5415H4.74678C5.16379 11.306 6.33219 10.4165 7.70835 10.4165C9.08452 10.4165 10.2529 11.306 10.6699 12.5415H17.9167V14.5415H10.6699C10.2529 15.777 9.08452 16.6665 7.70835 16.6665C6.33219 16.6665 5.16379 15.777 4.74678 14.5415Z" fill="#000"></path></svg></a><button type="submit" class="gq5GztMRY87mAaGXPl0A GYeMayLu5xyRrkpS3tK3" aria-label="submit" tabindex="-1" data-tid="f49ca51f"><svg class="bEOAU8l0RAVCYGLwzIcd search-form-submit-button__icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M13.6667 8.74984C13.6667 11.4652 11.4654 13.6665 8.75002 13.6665C6.03462 13.6665 3.83335 11.4652 3.83335 8.74984C3.83335 6.03444 6.03462 3.83317 8.75002 3.83317C11.4654 3.83317 13.6667 6.03444 13.6667 8.74984ZM12.7965 14.5643C11.6494 15.3641 10.2545 15.8332 8.75002 15.8332C4.838 15.8332 1.66669 12.6619 1.66669 8.74984C1.66669 4.83782 4.838 1.6665 8.75002 1.6665C12.662 1.6665 15.8334 4.83782 15.8334 8.74984C15.8334 10.2544 15.3643 11.6494 14.5643 12.7966L17.9672 16.1994L16.1994 17.9672L12.7965 14.5643Z" fill="#000"></path></svg>Найти</button></div></div></form></div></div></div><div class="d2iyLnHno8pjyTUgsF_y"><button type="button" class="Ex0puzxB_2NaW0e2X_Go"><span class="jhKJCc9wISzmNgerbIU3"></span></button><div class="_RT4qvKPDDRA4P9Pbu4U header-v4__user-bar" data-tid="1a82203d"><div><a class="HwxakmywSN1MVxOUDa2j STmivYg46UU9HR07qW5a aaRWihJRUjdbMbEwOiLR EFRjJ9RNSsb88VPpXle5 ExE8fwrwjKUGYxpPZBaz wHX4x0tOVF0wXidMvCYQ" href="https://hd.kinopoisk.ru/?source=kinopoisk_head_button">Попробовать Плюс</a></div><button type="button" class="ZbVGA14bTNo86weQTABU">Войти</button></div></div></div></header></div>
+                    </style><div class="promo-partial-component" style="bottom:40px" data-tid="dd5f0271"><div class="foxad foxad_theme_default" data-tid="2cff2d30"><div id="adfox_15626875611296678" class="foxad__container"></div></div><span class="promo-partial-component__close"></span></div><header class="F1eiUNVaPy3QX5LmvDQE PSC22a50iqTkDyBpXVTQ" data-tid="63b05890"><div class="header-navigation wcJl6bcgAVkRoFsc0_eo OFFhyFpjZOUZunWhZQmc"><div class="aMfgWQBTIY0uss0h37VA"><div class="pLMZR2nAdhFF6iOtDNzu" data-tid="911e2f4d"><div class=""><button class="yXbuMLSYfq8mLy4xl1kw yQ5D7nSpK9mGaaxW9KeA" type="button" data-tid="8ed90190"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M21 7.102H3v-2.4h18v2.4Zm0 6H3v-2.4h18v2.4Zm0 6H3v-2.4h18v2.4Z" fill="#999999"></path></svg></button><div class="lTUcYCrgF6rA3EK1u5AI sJmbgCxTUMocv9mV1IdA EFYsbOlgmZFqJ6PQDI8Q" data-tid="585eb7c0"><div class="NjIy5Qr_25DiVhkD2TRR jsAHY6EGlNi7UzRJIlsg xyLSLlOABSCB3MtF81wf"><div class="Sye748kIGKR6_1o5fbVg TCUaKSA2SaXvgkEbUu1t" data-tid="e500879d"><a href="/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/61205/a7775b8cfeb0024b6fb4fe0ee125e284b8ac8a1f/orig" data-tid="b35288c1"/>Р“Р»Р°РІРЅР°СЏ</a><a href="https://hd.kinopoisk.ru/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/994123/9589a3fd442af2ca26c14e6d6e539d30399eb29c/orig" data-tid="b35288c1"/>РћРЅР»Р°Р№РЅ-РєРёРЅРѕС‚РµР°С‚СЂ</a><a href="/lists/categories/movies/1/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/994123/bf58cac09c0da90eba5358d5c37abe9c689103c5/orig" data-tid="b35288c1"/>Р¤РёР»СЊРјС‹</a><a href="/lists/categories/movies/3/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/120922/c5487daa04b8f27021f64ab83b20a6459c1819ff/orig" data-tid="b35288c1"/>РЎРµСЂРёР°Р»С‹</a><a href="/afisha/new/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/135516/90382ec02b0e6da6a6a0926260378272c180caa9/orig" data-tid="b35288c1"/>Р‘РёР»РµС‚С‹ РІ РєРёРЅРѕ</a><a href="/media/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/61205/688ea4a84561dc943dfa9db0d37e1553a96166df/orig" data-tid="b35288c1"/>РњРµРґРёР°</a></div></div></div></div><a class="msMehWzmLAVwfQcmxv8w uW96Br00hFkFKc_Vc7HM" href="/" aria-label="РљРёРЅРѕРїРѕРёСЃРє" data-tid="79e4350"><img class="Tz6jKbE7Yc1fjKO9M1sa kinopoisk-header-logo__img" alt="РљРёРЅРѕРїРѕРёСЃРє" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTY0IiBoZWlnaHQ9IjM2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNTguODU5IDE4YzAtNS44ODkgMi45NTQtMTAuNiA4LjI4MS0xMC42IDUuMzI4IDAgOC4yODEgNC43MTEgOC4yODEgMTAuNiAwIDUuODktMi45NTQgMTAuNi04LjI4IDEwLjYtNS4zMjggMC04LjI4Mi00LjcxLTguMjgyLTEwLjZabTguMjgxIDcuNjZjMi4wNzIgMCAyLjk1NC0zLjUzNCAyLjk1NC03LjY1MiAwLTQuMTItLjg4OS03LjY1Mi0yLjk1NC03LjY1Mi0yLjA2NSAwLTIuOTU0IDMuNTMzLTIuOTU0IDcuNjUyLS4wMDcgNC4xMTguODgyIDcuNjUyIDIuOTU0IDcuNjUyWk0zLjg0MyA3Ljd2NS41OTZoLjI5NEw3Ljk4IDcuN2g1LjMybC03LjA5OCA2LjQ3NC4yOTQuMjkzTDE5LjUxIDcuNjkzdjQuNzExTDcuOTczIDE2LjUyM3YuMjkybDExLjUzNy0xLjAyOHY0LjQxOUw3Ljk3MyAxOS4xNzh2LjI5M2wxMS41MzcgNC4xMTh2NC43MTJMNi40OTYgMjEuNTI2bC0uMjk0LjI5MyA3LjA5OCA2LjQ3NEg3Ljk4bC0zLjg0My01LjU5NmgtLjI5NHY1LjU5NkgwVjcuNjg2aDMuODQzVjcuN1ptMTkuMjMgMEgyOC4xbC0uMjk0IDEyLjM2M2guMjk0TDM0LjAxNSA3LjdoNC40Mzh2MjAuNjA4aC01LjAyNmwuMjk0LTEyLjM2NGgtLjI5NEwyNy41MSAyOC4zMDloLTQuNDM4VjcuN1ptMjMuOTU1IDBoLTUuMDI2djIwLjYwOGg1LjAyNnYtOS4xM2g0LjEzN3Y5LjEzaDUuMDI2VjcuN2gtNS4wMjZ2Ny45NTJoLTQuMTM3VjcuN1ptNDUuMjUgMGgtMTQuMTl2MjAuNjA4aDUuMDI3VjExLjIzM2g0LjEzN3YxNy4wNzVoNS4wMjZWNy43Wm0yLjY2IDEwLjNjMC01Ljg4OSAyLjk1NC0xMC42IDguMjgyLTEwLjYgNS4zMiAwIDguMjgxIDQuNzExIDguMjgxIDEwLjYgMCA1Ljg5LTIuOTU0IDEwLjYtOC4yODEgMTAuNi01LjMyIDAtOC4yODItNC43MS04LjI4Mi0xMC42Wm04LjI4MiA3LjY2YzIuMDcyIDAgMi45NTQtMy41MzQgMi45NTQtNy42NTIgMC00LjEyLS44ODktNy42NTItMi45NTQtNy42NTItMi4wNzIgMC0yLjk1NCAzLjUzMy0yLjk1NCA3LjY1MiAwIDQuMTE4Ljg4MiA3LjY1MiAyLjk1NCA3LjY1MlpNMTE5LjE4NyA3LjdoLTUuMDI2djIwLjYwOGg0LjQzOGw1LjkxNi0xMi4zNjRoLjI5NGwtLjI5NCAxMi4zNjRoNS4wMjZWNy43aC00LjQzOGwtNS45MTYgMTIuMzYzaC0uMjk0bC4yOTQtMTIuMzYzWm0yMy42NjkgMTMuNTQxIDQuNzMyLjU4NWMtLjg4OSA0LjEyLTIuOTU0IDYuNzc0LTcuMzY0IDYuNzc0LTUuMzIgMC04LjAxNi00LjcxLTguMDE2LTEwLjYgMC01Ljg4OSAyLjY4OS0xMC42IDguMDE2LTEwLjYgNC4zMTcgMCA2LjQ3NSAyLjY0OSA3LjM2NCA2LjQ3NWwtNC43MzIgMS4xNzdjLS4yOTQtMi4wNjMtMS4xNTUtNC43MS0yLjYzMi00LjcxLTEuNzcxIDAtMi42ODkgMy41MzMtMi42ODkgNy42NTEgMCA0LjA5LjkxOCA3LjY1MiAyLjY4OSA3LjY1MiAxLjQ0OS4wMTUgMi4zMy0yLjM0MSAyLjYzMi00LjQwNFptMTEuODMtMTMuNTRoLTQuNzMydjIwLjYwN2g0LjczMnYtOS4xM2guMjk0bDMuNTQ5IDkuMTNIMTY0bC01LjE3Ny0xMC42TDE2My44NDkgNy43aC01LjAyNmwtMy44NDMgOS4xM2gtLjI5NFY3LjdaIiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg=="/></a></div></div><div class="X20_NjlpDPlTkbuok4rx j6GoV3WaDRoUkwD8au2A"><div class="ArscTgpab2agRvZhPYWB"><nav class="uUDLV3vKTlX0gghIsJeU kinopoisk-header-featured-menu mJNXX7ycWm2jhZkbDvck" data-tid="78f04c5d"><a class="HewSW_lsZ1vm_FFxdXik vQi0EgnSLg57Ndz9t7rI kinopoisk-header-featured-menu__item" href="https://hd.kinopoisk.ru/" target="_self" data-tid="acc26a70"><img aria-label="presentation" class="HzJij8Eyy92SV4Ad5Jxw _VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/7230b4c753cc9d0928a4802b1ae08ccf7cb7d245/orig" srcSet="" data-tid="b35288c1"/><img aria-label="presentation" class="_VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/50064/15d30528c2394db32f9624a0fa4ff244f79d8c7c/orig" srcSet="" data-tid="b35288c1"/>РћРЅР»Р°Р№РЅ-РєРёРЅРѕС‚РµР°С‚СЂ</a><a class="HewSW_lsZ1vm_FFxdXik vQi0EgnSLg57Ndz9t7rI kinopoisk-header-featured-menu__item" href="https://www.kinopoisk.ru/special/oscar/?utm_source=kinopoisk&amp;utm_medium=selfpromo_kp&amp;utm_campaign=button_header" target="_blank" data-tid="acc26a70"><img aria-label="presentation" class="HzJij8Eyy92SV4Ad5Jxw _VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/08602b626fe43b66fcd3fa51eb0036a592fd5769/orig" srcSet="" data-tid="b35288c1"/><img aria-label="presentation" class="_VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/3d335bf4d3e327ce353d6e662260a0fa50809693/orig" srcSet="" data-tid="b35288c1"/>РћСЃРєР°СЂ-2023</a></nav></div><div class="dYqkZsYev763FwS59js3"><div class="ANqFTQtmUIkLdxyiuvHX z4iVv0UXxWLfrQf1pgIC" data-tid="8d7d7cbd"><form class="PxhYm_eY_wPIfKcQuMws" action="/index.php"><div class="SPvzKZuHcHDgthtQB0iw fzZ5G8oKiAZ3HYzWf9gF" data-tid="b0e8f9b"><input type="text" name="kp_query" class="UnxoJ4nUSkuPXF9CyGhq kinopoisk-header-search-form-input__input" autoComplete="off" aria-label="Р¤РёР»СЊРјС‹, СЃРµСЂРёР°Р»С‹, РїРµСЂСЃРѕРЅС‹" placeholder="Р¤РёР»СЊРјС‹, СЃРµСЂРёР°Р»С‹, РїРµСЂСЃРѕРЅС‹" value="" required=""/><div class="eHMm7KHEGFApsLYSTfc9 kinopoisk-header-search-form-input__control-container"><a href="/s/" class="o_KSzBSF8pfTnCzlRvkI" aria-label="advanced-search" tabindex="-1"><svg class="c1wHrX0nYR4Zk_nNlgHG" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.2917 7.58317C12.913 7.58317 13.4167 7.07949 13.4167 6.45817C13.4167 5.83685 12.913 5.33317 12.2917 5.33317C11.6704 5.33317 11.1667 5.83685 11.1667 6.45817C11.1667 7.07949 11.6704 7.58317 12.2917 7.58317ZM15.2533 7.45817C14.8363 8.69363 13.6679 9.58317 12.2917 9.58317C10.9155 9.58317 9.74712 8.69363 9.33011 7.45817H2.08335V5.45817H9.33011C9.74712 4.22271 10.9155 3.33317 12.2917 3.33317C13.6679 3.33317 14.8363 4.22271 15.2533 5.45817H17.9167V7.45817H15.2533ZM7.70835 12.4165C7.08703 12.4165 6.58335 12.9202 6.58335 13.5415C6.58335 14.1628 7.08703 14.6665 7.70835 14.6665C8.32967 14.6665 8.83335 14.1628 8.83335 13.5415C8.83335 12.9202 8.32967 12.4165 7.70835 12.4165ZM4.74678 14.5415H2.08335V12.5415H4.74678C5.16379 11.306 6.33219 10.4165 7.70835 10.4165C9.08452 10.4165 10.2529 11.306 10.6699 12.5415H17.9167V14.5415H10.6699C10.2529 15.777 9.08452 16.6665 7.70835 16.6665C6.33219 16.6665 5.16379 15.777 4.74678 14.5415Z" fill="#000"></path></svg></a><button type="submit" class="gq5GztMRY87mAaGXPl0A GYeMayLu5xyRrkpS3tK3" aria-label="submit" tabindex="-1" data-tid="f49ca51f"><svg class="bEOAU8l0RAVCYGLwzIcd search-form-submit-button__icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M13.6667 8.74984C13.6667 11.4652 11.4654 13.6665 8.75002 13.6665C6.03462 13.6665 3.83335 11.4652 3.83335 8.74984C3.83335 6.03444 6.03462 3.83317 8.75002 3.83317C11.4654 3.83317 13.6667 6.03444 13.6667 8.74984ZM12.7965 14.5643C11.6494 15.3641 10.2545 15.8332 8.75002 15.8332C4.838 15.8332 1.66669 12.6619 1.66669 8.74984C1.66669 4.83782 4.838 1.6665 8.75002 1.6665C12.662 1.6665 15.8334 4.83782 15.8334 8.74984C15.8334 10.2544 15.3643 11.6494 14.5643 12.7966L17.9672 16.1994L16.1994 17.9672L12.7965 14.5643Z" fill="#000"></path></svg>РќР°Р№С‚Рё</button></div></div></form></div></div></div><div class="d2iyLnHno8pjyTUgsF_y"><button type="button" class="Ex0puzxB_2NaW0e2X_Go"><span class="jhKJCc9wISzmNgerbIU3"></span></button><div class="_RT4qvKPDDRA4P9Pbu4U header-v4__user-bar" data-tid="1a82203d"><div><a class="HwxakmywSN1MVxOUDa2j STmivYg46UU9HR07qW5a aaRWihJRUjdbMbEwOiLR EFRjJ9RNSsb88VPpXle5 ExE8fwrwjKUGYxpPZBaz wHX4x0tOVF0wXidMvCYQ" href="https://hd.kinopoisk.ru/?source=kinopoisk_head_button">РџРѕРїСЂРѕР±РѕРІР°С‚СЊ РџР»СЋСЃ</a></div><button type="button" class="ZbVGA14bTNo86weQTABU">Р’РѕР№С‚Рё</button></div></div></div></header></div>
 
     </div>
 
@@ -378,14 +377,14 @@
 <![endif]-->
 
 <script nonce="">
-// сокрытие блоков по кукам
-var CONST_BLOCK_VOTES_LAST = 256; // график-ломаная "Последние оценки пользователя"
-var CONST_BLOCK_VOTES_PIE = 512; // график-пирог "Распределение по оценкам"
-var CONST_BLOCK_VOTES_GENRE = 1024; // график-столбики "Распределение по жанрам"
-var CONST_BLOCK_VOTES_COUNTRY = 2048; // карта "География фильмов"
-var CONST_BLOCK_VOTES_PIES = 4096; // два графика-пирога "Десятилетия / Годы"
-var CONST_BLOCK_VOTES_PEOPLES = 32768; // Лучшие актёры, фильмы которых этот пользователь оценивал чаще всего
-var CONST_BLOCK_VOTES_GENRES_PIE = 536870912; // график-пирог "Распределение по жанрам"
+// СЃРѕРєСЂС‹С‚РёРµ Р±Р»РѕРєРѕРІ РїРѕ РєСѓРєР°Рј
+var CONST_BLOCK_VOTES_LAST = 256; // РіСЂР°С„РёРє-Р»РѕРјР°РЅР°СЏ "РџРѕСЃР»РµРґРЅРёРµ РѕС†РµРЅРєРё РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ"
+var CONST_BLOCK_VOTES_PIE = 512; // РіСЂР°С„РёРє-РїРёСЂРѕРі "Р Р°СЃРїСЂРµРґРµР»РµРЅРёРµ РїРѕ РѕС†РµРЅРєР°Рј"
+var CONST_BLOCK_VOTES_GENRE = 1024; // РіСЂР°С„РёРє-СЃС‚РѕР»Р±РёРєРё "Р Р°СЃРїСЂРµРґРµР»РµРЅРёРµ РїРѕ Р¶Р°РЅСЂР°Рј"
+var CONST_BLOCK_VOTES_COUNTRY = 2048; // РєР°СЂС‚Р° "Р“РµРѕРіСЂР°С„РёСЏ С„РёР»СЊРјРѕРІ"
+var CONST_BLOCK_VOTES_PIES = 4096; // РґРІР° РіСЂР°С„РёРєР°-РїРёСЂРѕРіР° "Р”РµСЃСЏС‚РёР»РµС‚РёСЏ / Р“РѕРґС‹"
+var CONST_BLOCK_VOTES_PEOPLES = 32768; // Р›СѓС‡С€РёРµ Р°РєС‚С‘СЂС‹, С„РёР»СЊРјС‹ РєРѕС‚РѕСЂС‹С… СЌС‚РѕС‚ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РѕС†РµРЅРёРІР°Р» С‡Р°С‰Рµ РІСЃРµРіРѕ
+var CONST_BLOCK_VOTES_GENRES_PIE = 536870912; // РіСЂР°С„РёРє-РїРёСЂРѕРі "Р Р°СЃРїСЂРµРґРµР»РµРЅРёРµ РїРѕ Р¶Р°РЅСЂР°Рј"
 
 $(function(){
     $('#votes_my_guest, #votes_nomy_guest').click(function(){
@@ -447,13 +446,13 @@ $(function(){
         updateHideBlockCookie(CONST_BLOCK_VOTES_PIES, hide);
     });
 
-    // текущая кука сокрытия блоков
+    // С‚РµРєСѓС‰Р°СЏ РєСѓРєР° СЃРѕРєСЂС‹С‚РёСЏ Р±Р»РѕРєРѕРІ
     hideBlocks = $.cookie('hideBlocks');
     if (hideBlocks == null) {
         hideBlocks = 0;
     }
 
-    // скрытые по умолчанию графики
+    // СЃРєСЂС‹С‚С‹Рµ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ РіСЂР°С„РёРєРё
     
     
     
@@ -504,12 +503,12 @@ function hideShowGraphBlock(graph, hide)
     if (graph == 'pies') {
         if (hide) {
             $('#years div.timeMachTitle1 s').removeClass('turnOff');
-            $('#years div.timeMachTitle1 span').addClass('act').html('Десятилетия / Годы');
+            $('#years div.timeMachTitle1 span').addClass('act').html('Р”РµСЃСЏС‚РёР»РµС‚РёСЏ / Р“РѕРґС‹');
             $('#years div.flash, #years ul.list, #years div.timeMachTitle2').hide();
             $('#div_votesByYears').hide();
         } else {
             $('#years div.timeMachTitle1 s').addClass('turnOff');
-            $('#years div.timeMachTitle1 span').removeClass('act').html('Десятилетия');
+            $('#years div.timeMachTitle1 span').removeClass('act').html('Р”РµСЃСЏС‚РёР»РµС‚РёСЏ');
             $('#years div.flash, #years ul.list, #years div.timeMachTitle2').show();
             $('#div_votesByYears').show();
         }
@@ -539,24 +538,24 @@ function hideShowGraphBlock(graph, hide)
 
 <div class="profileInsertsMenu">
 <ul class="list">
-   <li class="menuButton1"><a href="/user/2092256/">Профиль</a></li>
+   <li class="menuButton1"><a href="/user/2092256/">РџСЂРѕС„РёР»СЊ</a></li>
 
-   <li class="off menuButton2"><span>Рецензии</span></li>
+   <li class="off menuButton2"><span>Р РµС†РµРЅР·РёРё</span></li>
 
-   <li class="menuButton3 act_white"><span>Оценки</span></li>
+   <li class="menuButton3 act_white"><span>РћС†РµРЅРєРё</span></li>
    
 
-   <li class="off menuButton4"><span>Комментарии</span></li>
+   <li class="off menuButton4"><span>РљРѕРјРјРµРЅС‚Р°СЂРёРё</span></li>
 
-   <li class="off menuButton5"><span>Друзья</span></li>
+   <li class="off menuButton5"><span>Р”СЂСѓР·СЊСЏ</span></li>
 
-   <li class="menuButton6"><a href="/user/2092256/movies/">Фильмы</a></li>
+   <li class="menuButton6"><a href="/user/2092256/movies/">Р¤РёР»СЊРјС‹</a></li>
    
 
-   <li class="menuButton7"><a href="/user/2092256/stars/">Звёзды</a></li>
+   <li class="menuButton7"><a href="/user/2092256/stars/">Р—РІС‘Р·РґС‹</a></li>
    
 
-    <li class="menuButton8"><a href="https://www.kinopoisk.ru/lists/films/">Списки</a></li>
+    <li class="menuButton8"><a href="https://www.kinopoisk.ru/lists/films/">РЎРїРёСЃРєРё</a></li>
 
 </ul>
 </div>
@@ -578,8 +577,8 @@ function hideShowGraphBlock(graph, hide)
                         <s></s><a href="/user/2092256/" >EvilArthas</a>
                         &gt;
                         <select size="1" name="vs_top" id="sb_vs_top">
-                            <option value="vote" selected="selected">оценки</option>
-                            <option value="novote">просмотры</option>
+                            <option value="vote" selected="selected">РѕС†РµРЅРєРё</option>
+                            <option value="novote">РїСЂРѕСЃРјРѕС‚СЂС‹</option>
                         </select>
                         <script nonce="" type="text/javascript">
                         $(function(){
@@ -592,17 +591,17 @@ function hideShowGraphBlock(graph, hide)
                     <table style="width: 440px" cellspacing=0 cellpadding=0 border=0 bgcolor="#f2f2f2">
 	<tr><td colspan=2 height=10></td></tr>
 	<tr>
-		<td colspan=2 class="news" style="padding-left: 10px">Близость интересов:  &mdash; </td>
+		<td colspan=2 class="news" style="padding-left: 10px">Р‘Р»РёР·РѕСЃС‚СЊ РёРЅС‚РµСЂРµСЃРѕРІ:  &mdash; </td>
 	</tr>
 	<tr>
 		<td width=70% height=40 valign=top style="padding-left:10px;padding-bottom:10px;padding-top:5px">
 
 
-<span style="white-space: nowrap">Коэффициент близости с данным пользователем недоступен.</span>
+<span style="white-space: nowrap">РљРѕСЌС„С„РёС†РёРµРЅС‚ Р±Р»РёР·РѕСЃС‚Рё СЃ РґР°РЅРЅС‹Рј РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј РЅРµРґРѕСЃС‚СѓРїРµРЅ.</span>
 
 
 <div style="color: #555; font-size: 9px; clear: left; padding-top: 3px">
-   <a style="color: #555; font-size: 10px" href="/community/cf_user/135389529/" class="all">мои друзья по интересам</a>
+   <a style="color: #555; font-size: 10px" href="/community/cf_user/135389529/" class="all">РјРѕРё РґСЂСѓР·СЊСЏ РїРѕ РёРЅС‚РµСЂРµСЃР°Рј</a>
 </div>
 		</td>
 		<td width=30% align=center valign=top>&nbsp;</td>
@@ -625,36 +624,36 @@ function hideShowGraphBlock(graph, hide)
             
                 <table cellspacing=0 cellpadding=0 width=100% border=0><tr>
 <td width=33% valign=top>
-<a style="color: #777" href="/user/2092256/votes/list/genre/1750/vs/vote/#list" class="all">аниме</a><span style="color: #777"> (1)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/22/vs/vote/#list" class="all">биография</a><span style="color: #777"> (72)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/3/vs/vote/#list" class="all">боевик</a><span style="color: #777"> (498)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/13/vs/vote/#list" class="all">вестерн</a><span style="color: #777"> (43)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/19/vs/vote/#list" class="all">военный</a><span style="color: #777"> (66)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/17/vs/vote/#list" class="all">детектив</a><span style="color: #777"> (211)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/12/vs/vote/#list" class="all">документальный</a><span style="color: #777"> (1)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/8/vs/vote/#list" class="all">драма</a><span style="color: #777"> (714)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/1750/vs/vote/#list" class="all">Р°РЅРёРјРµ</a><span style="color: #777"> (1)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/22/vs/vote/#list" class="all">Р±РёРѕРіСЂР°С„РёСЏ</a><span style="color: #777"> (72)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/3/vs/vote/#list" class="all">Р±РѕРµРІРёРє</a><span style="color: #777"> (498)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/13/vs/vote/#list" class="all">РІРµСЃС‚РµСЂРЅ</a><span style="color: #777"> (43)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/19/vs/vote/#list" class="all">РІРѕРµРЅРЅС‹Р№</a><span style="color: #777"> (66)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/17/vs/vote/#list" class="all">РґРµС‚РµРєС‚РёРІ</a><span style="color: #777"> (211)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/12/vs/vote/#list" class="all">РґРѕРєСѓРјРµРЅС‚Р°Р»СЊРЅС‹Р№</a><span style="color: #777"> (1)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/8/vs/vote/#list" class="all">РґСЂР°РјР°</a><span style="color: #777"> (714)</span><br />
 
 </td>
 <td width=33% style="padding-left:15px;border-left:2px solid #ccc" valign=top>
-<a style="color: #777" href="/user/2092256/votes/list/genre/23/vs/vote/#list" class="all">история</a><span style="color: #777"> (62)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/6/vs/vote/#list" class="all">комедия</a><span style="color: #777"> (175)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/15/vs/vote/#list" class="all">короткометражка</a><span style="color: #777"> (30)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/16/vs/vote/#list" class="all">криминал</a><span style="color: #777"> (419)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/7/vs/vote/#list" class="all">мелодрама</a><span style="color: #777"> (101)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/21/vs/vote/#list" class="all">музыка</a><span style="color: #777"> (6)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/14/vs/vote/#list" class="all">мультфильм</a><span style="color: #777"> (19)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/9/vs/vote/#list" class="all">мюзикл</a><span style="color: #777"> (10)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/23/vs/vote/#list" class="all">РёСЃС‚РѕСЂРёСЏ</a><span style="color: #777"> (62)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/6/vs/vote/#list" class="all">РєРѕРјРµРґРёСЏ</a><span style="color: #777"> (175)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/15/vs/vote/#list" class="all">РєРѕСЂРѕС‚РєРѕРјРµС‚СЂР°Р¶РєР°</a><span style="color: #777"> (30)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/16/vs/vote/#list" class="all">РєСЂРёРјРёРЅР°Р»</a><span style="color: #777"> (419)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/7/vs/vote/#list" class="all">РјРµР»РѕРґСЂР°РјР°</a><span style="color: #777"> (101)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/21/vs/vote/#list" class="all">РјСѓР·С‹РєР°</a><span style="color: #777"> (6)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/14/vs/vote/#list" class="all">РјСѓР»СЊС‚С„РёР»СЊРј</a><span style="color: #777"> (19)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/9/vs/vote/#list" class="all">РјСЋР·РёРєР»</a><span style="color: #777"> (10)</span><br />
 
 </td>
 <td width=33% style="padding-left:15px;border-left:2px solid #ccc" valign=top>
-<a style="color: #777" href="/user/2092256/votes/list/genre/10/vs/vote/#list" class="all">приключения</a><span style="color: #777"> (261)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/11/vs/vote/#list" class="all">семейный</a><span style="color: #777"> (39)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/serial/vs/vote/#list" class="all">сериал</a><span style="color: #777"> (140)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/24/vs/vote/#list" class="all">спорт</a><span style="color: #777"> (25)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/4/vs/vote/#list" class="all">триллер</a><span style="color: #777"> (567)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/1/vs/vote/#list" class="all">ужасы</a><span style="color: #777"> (229)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/2/vs/vote/#list" class="all">фантастика</a><span style="color: #777"> (253)</span><br />
-<a style="color: #777" href="/user/2092256/votes/list/genre/5/vs/vote/#list" class="all">фэнтези</a><span style="color: #777"> (179)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/10/vs/vote/#list" class="all">РїСЂРёРєР»СЋС‡РµРЅРёСЏ</a><span style="color: #777"> (261)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/11/vs/vote/#list" class="all">СЃРµРјРµР№РЅС‹Р№</a><span style="color: #777"> (39)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/serial/vs/vote/#list" class="all">СЃРµСЂРёР°Р»</a><span style="color: #777"> (140)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/24/vs/vote/#list" class="all">СЃРїРѕСЂС‚</a><span style="color: #777"> (25)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/4/vs/vote/#list" class="all">С‚СЂРёР»Р»РµСЂ</a><span style="color: #777"> (567)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/1/vs/vote/#list" class="all">СѓР¶Р°СЃС‹</a><span style="color: #777"> (229)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/2/vs/vote/#list" class="all">С„Р°РЅС‚Р°СЃС‚РёРєР°</a><span style="color: #777"> (253)</span><br />
+<a style="color: #777" href="/user/2092256/votes/list/genre/5/vs/vote/#list" class="all">С„СЌРЅС‚РµР·Рё</a><span style="color: #777"> (179)</span><br />
 
 </td>
 </tr></table>
@@ -665,7 +664,7 @@ function hideShowGraphBlock(graph, hide)
             
                 <div style="color: #777; font-size: 18px" id="title_chart_last_vote">
                     <s class="turnOn turnOff"></s>
-                    <span>Последние оценки пользователя</span>
+                    <span>РџРѕСЃР»РµРґРЅРёРµ РѕС†РµРЅРєРё РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ</span>
                 </div>
                 <div id="graph_chart_last_vote"><script nonce="" type="text/javascript">
 $(function () {
@@ -701,7 +700,7 @@ $(function () {
             marginTop: 20,
             panEventsEnabled: true,
             categoryField: "time",
-            zoomOutText: 'все оценки',
+            zoomOutText: 'РІСЃРµ РѕС†РµРЅРєРё',
         },
         balloon: {
 
@@ -747,7 +746,7 @@ $(function () {
 
             <div style="color: #777; font-size: 18px" id="title_chart_pie_vote">
     <s class="turnOn turnOff"></s>
-    <span>Распределение по оценкам</span>
+    <span>Р Р°СЃРїСЂРµРґРµР»РµРЅРёРµ РїРѕ РѕС†РµРЅРєР°Рј</span>
 </div>
 <div id="graph_chart_pie_vote">
 <script nonce="" type="text/javascript">
@@ -808,7 +807,7 @@ $(function () {
 
             <div style="color: #777; font-size: 18px" id="title_chart_genre_vote">
     <s class="turnOn turnOff"></s>
-    <span>Распределение по жанрам</span>
+    <span>Р Р°СЃРїСЂРµРґРµР»РµРЅРёРµ РїРѕ Р¶Р°РЅСЂР°Рј</span>
 </div>
 <div style="height: 250px; margin-bottom: 20px" id="graph_chart_genre_vote">
 <script nonce="" type="text/javascript">
@@ -906,10 +905,10 @@ $(function () {
                 <div id="years">
                    <div class="timeMachTitle1">
                        <s class="turnOn turnOff"></s>
-                       <span>Десятилетия</span>
+                       <span>Р”РµСЃСЏС‚РёР»РµС‚РёСЏ</span>
                    </div>
                    <div class="timeMachTitle2">
-                       Годы
+                       Р“РѕРґС‹
                    </div>
                    <div class="clear"></div>
 
@@ -917,23 +916,23 @@ $(function () {
                    <td class="listTd1">
                       <ul class="list">
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/2020/vs/vote/#years">2020-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/2020/vs/vote/#years">2020-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/2010/vs/vote/#years">2010-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/2010/vs/vote/#years">2010-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/2000/vs/vote/#years">2000-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/2000/vs/vote/#years">2000-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1990/vs/vote/#years">1990-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1990/vs/vote/#years">1990-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1980/vs/vote/#years">1980-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1980/vs/vote/#years">1980-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1970/vs/vote/#years">1970-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1970/vs/vote/#years">1970-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1960/vs/vote/#years">1960-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1960/vs/vote/#years">1960-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1950/vs/vote/#years">1950-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1950/vs/vote/#years">1950-Рµ</a></li>
                           
-                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1930/vs/vote/#years">1930-е</a></li>
+                              <li><a href="/user/2092256/votes/list/ord/date/dec_year/1930/vs/vote/#years">1930-Рµ</a></li>
                           
                       </ul>
                    </td>
@@ -1130,82 +1129,82 @@ $(function () {
                 $(function(){
                     var data = {
                         'actor': {num: 437, page: 1, pages: 44, peoples: {'p1num': [
-                            {'id':25584,'name':"Брэд Питт",'img':true,'films':28,'r':5.821},
-                            {'id':718,'name':"Роберт Де Ниро",'img':true,'films':27,'r':5.074},
-                            {'id':1514,'name':"Джейсон Стэйтем",'img':true,'films':25,'r':4.6},
-                            {'id':6245,'name':"Джонни Депп",'img':true,'films':24,'r':4.833},
-                            {'id':3425,'name':"Кристен Стюарт",'img':true,'films':24,'r':3.875},
-                            {'id':7164,'name':"Сэмюэл Л. Джексон",'img':true,'films':22,'r':4.682},
-                            {'id':6534,'name':"Лиам Нисон",'img':true,'films':21,'r':4.476},
-                            {'id':9838,'name':"Лоренс Фишбёрн",'img':true,'films':19,'r':4.947},
-                            {'id':9331,'name':"Джон Хёрт",'img':true,'films':18,'r':4.222},
-                            {'id':21495,'name':"Кристиан Бэйл",'img':true,'films':18,'r':5.333}]}},
+                            {'id':25584,'name':"Р‘СЂСЌРґ РџРёС‚С‚",'img':true,'films':28,'r':5.821},
+                            {'id':718,'name':"Р РѕР±РµСЂС‚ Р”Рµ РќРёСЂРѕ",'img':true,'films':27,'r':5.074},
+                            {'id':1514,'name':"Р”Р¶РµР№СЃРѕРЅ РЎС‚СЌР№С‚РµРј",'img':true,'films':25,'r':4.6},
+                            {'id':6245,'name':"Р”Р¶РѕРЅРЅРё Р”РµРїРї",'img':true,'films':24,'r':4.833},
+                            {'id':3425,'name':"РљСЂРёСЃС‚РµРЅ РЎС‚СЋР°СЂС‚",'img':true,'films':24,'r':3.875},
+                            {'id':7164,'name':"РЎСЌРјСЋСЌР» Р›. Р”Р¶РµРєСЃРѕРЅ",'img':true,'films':22,'r':4.682},
+                            {'id':6534,'name':"Р›РёР°Рј РќРёСЃРѕРЅ",'img':true,'films':21,'r':4.476},
+                            {'id':9838,'name':"Р›РѕСЂРµРЅСЃ Р¤РёС€Р±С‘СЂРЅ",'img':true,'films':19,'r':4.947},
+                            {'id':9331,'name':"Р”Р¶РѕРЅ РҐС‘СЂС‚",'img':true,'films':18,'r':4.222},
+                            {'id':21495,'name':"РљСЂРёСЃС‚РёР°РЅ Р‘СЌР№Р»",'img':true,'films':18,'r':5.333}]}},
                         'composer': {num: 65, page: 1, pages: 7, peoples: {'p1num': [
-                            {'id':50590,'name':"Ханс Циммер",'img':true,'films':30,'r':5.467},
-                            {'id':608128,'name':"Марко Белтрами",'img':true,'films':29,'r':4.655},
-                            {'id':610752,'name':"Брайан Тайлер",'img':true,'films':25,'r':4.04},
-                            {'id':542462,'name':"Джеймс Ньютон Ховард",'img':true,'films':23,'r':4.913},
-                            {'id':225027,'name':"Джон Уильямс",'img':true,'films':23,'r':5.13},
-                            {'id':553348,'name':"Алан Сильвестри",'img':true,'films':19,'r':4.895},
-                            {'id':9966,'name':"Дэнни Элфман",'img':true,'films':19,'r':4.368},
-                            {'id':86420,'name':"Картер Бёруэлл",'img':true,'films':19,'r':5.526},
-                            {'id':142716,'name':"Говард Шор",'img':true,'films':18,'r':5.611},
-                            {'id':163573,'name':"Джеймс Хорнер",'img':true,'films':16,'r':6.313}]}},
+                            {'id':50590,'name':"РҐР°РЅСЃ Р¦РёРјРјРµСЂ",'img':true,'films':30,'r':5.467},
+                            {'id':608128,'name':"РњР°СЂРєРѕ Р‘РµР»С‚СЂР°РјРё",'img':true,'films':29,'r':4.655},
+                            {'id':610752,'name':"Р‘СЂР°Р№Р°РЅ РўР°Р№Р»РµСЂ",'img':true,'films':25,'r':4.04},
+                            {'id':542462,'name':"Р”Р¶РµР№РјСЃ РќСЊСЋС‚РѕРЅ РҐРѕРІР°СЂРґ",'img':true,'films':23,'r':4.913},
+                            {'id':225027,'name':"Р”Р¶РѕРЅ РЈРёР»СЊСЏРјСЃ",'img':true,'films':23,'r':5.13},
+                            {'id':553348,'name':"РђР»Р°РЅ РЎРёР»СЊРІРµСЃС‚СЂРё",'img':true,'films':19,'r':4.895},
+                            {'id':9966,'name':"Р”СЌРЅРЅРё Р­Р»С„РјР°РЅ",'img':true,'films':19,'r':4.368},
+                            {'id':86420,'name':"РљР°СЂС‚РµСЂ Р‘С‘СЂСѓСЌР»Р»",'img':true,'films':19,'r':5.526},
+                            {'id':142716,'name':"Р“РѕРІР°СЂРґ РЁРѕСЂ",'img':true,'films':18,'r':5.611},
+                            {'id':163573,'name':"Р”Р¶РµР№РјСЃ РҐРѕСЂРЅРµСЂ",'img':true,'films':16,'r':6.313}]}},
                         'director': {num: 87, page: 1, pages: 9, peoples: {'p1num': [
-                            {'id':10015,'name':"Ридли Скотт",'img':true,'films':19,'r':4.895},
-                            {'id':10988,'name':"Мартин Скорсезе",'img':true,'films':14,'r':5.429},
-                            {'id':22948,'name':"Клинт Иствуд",'img':true,'films':12,'r':5.167},
-                            {'id':80434,'name':"Тим Хантер",'img':true,'films':12,'r':5.333},
-                            {'id':12020,'name':"Джоэл Коэн",'img':true,'films':11,'r':5.727},
-                            {'id':2944,'name':"Дэвид Финчер",'img':true,'films':11,'r':5.455},
-                            {'id':154136,'name':"Дэниэл Эттиэс",'img':true,'films':11,'r':5.091},
-                            {'id':7640,'name':"Квентин Тарантино",'img':true,'films':11,'r':7},
-                            {'id':2800,'name':"Гай Ферленд",'img':true,'films':10,'r':5.6},
-                            {'id':12019,'name':"Итан Коэн",'img':true,'films':10,'r':5.8}]}},
+                            {'id':10015,'name':"Р РёРґР»Рё РЎРєРѕС‚С‚",'img':true,'films':19,'r':4.895},
+                            {'id':10988,'name':"РњР°СЂС‚РёРЅ РЎРєРѕСЂСЃРµР·Рµ",'img':true,'films':14,'r':5.429},
+                            {'id':22948,'name':"РљР»РёРЅС‚ РСЃС‚РІСѓРґ",'img':true,'films':12,'r':5.167},
+                            {'id':80434,'name':"РўРёРј РҐР°РЅС‚РµСЂ",'img':true,'films':12,'r':5.333},
+                            {'id':12020,'name':"Р”Р¶РѕСЌР» РљРѕСЌРЅ",'img':true,'films':11,'r':5.727},
+                            {'id':2944,'name':"Р”СЌРІРёРґ Р¤РёРЅС‡РµСЂ",'img':true,'films':11,'r':5.455},
+                            {'id':154136,'name':"Р”СЌРЅРёСЌР» Р­С‚С‚РёСЌСЃ",'img':true,'films':11,'r':5.091},
+                            {'id':7640,'name':"РљРІРµРЅС‚РёРЅ РўР°СЂР°РЅС‚РёРЅРѕ",'img':true,'films':11,'r':7},
+                            {'id':2800,'name':"Р“Р°Р№ Р¤РµСЂР»РµРЅРґ",'img':true,'films':10,'r':5.6},
+                            {'id':12019,'name':"РС‚Р°РЅ РљРѕСЌРЅ",'img':true,'films':10,'r':5.8}]}},
                         'editor': {num: 84, page: 1, pages: 9, peoples: {'p1num': [
-                            {'id':34305,'name':"Пьетро Скалия",'img':true,'films':15,'r':4.933},
-                            {'id':1238252,'name':"Джоэл Кокс",'img':true,'films':13,'r':4.923},
-                            {'id':321611,'name':"Крис Лебензон",'img':true,'films':13,'r':5.308},
-                            {'id':1196510,'name':"Пол Рубелл",'img':true,'films':13,'r':5},
-                            {'id':603677,'name':"Конрад Бафф IV",'img':true,'films':12,'r':5.75},
-                            {'id':2354627,'name':"Ли Смит",'img':true,'films':11,'r':5.455},
-                            {'id':137722,'name':"Марк Голдблатт",'img':true,'films':11,'r':5.364},
-                            {'id':318813,'name':"Тельма Скунмейкер",'img':true,'films':11,'r':6.182},
-                            {'id':12020,'name':"Джоэл Коэн",'img':true,'films':10,'r':5.8},
-                            {'id':2004040,'name':"Дэвид Бреннер",'img':true,'films':10,'r':3.7}]}},
+                            {'id':34305,'name':"РџСЊРµС‚СЂРѕ РЎРєР°Р»РёСЏ",'img':true,'films':15,'r':4.933},
+                            {'id':1238252,'name':"Р”Р¶РѕСЌР» РљРѕРєСЃ",'img':true,'films':13,'r':4.923},
+                            {'id':321611,'name':"РљСЂРёСЃ Р›РµР±РµРЅР·РѕРЅ",'img':true,'films':13,'r':5.308},
+                            {'id':1196510,'name':"РџРѕР» Р СѓР±РµР»Р»",'img':true,'films':13,'r':5},
+                            {'id':603677,'name':"РљРѕРЅСЂР°Рґ Р‘Р°С„С„ IV",'img':true,'films':12,'r':5.75},
+                            {'id':2354627,'name':"Р›Рё РЎРјРёС‚",'img':true,'films':11,'r':5.455},
+                            {'id':137722,'name':"РњР°СЂРє Р“РѕР»РґР±Р»Р°С‚С‚",'img':true,'films':11,'r':5.364},
+                            {'id':318813,'name':"РўРµР»СЊРјР° РЎРєСѓРЅРјРµР№РєРµСЂ",'img':true,'films':11,'r':6.182},
+                            {'id':12020,'name':"Р”Р¶РѕСЌР» РљРѕСЌРЅ",'img':true,'films':10,'r':5.8},
+                            {'id':2004040,'name':"Р”СЌРІРёРґ Р‘СЂРµРЅРЅРµСЂ",'img':true,'films':10,'r':3.7}]}},
                         'operator': {num: 76, page: 1, pages: 8, peoples: {'p1num': [
-                            {'id':258609,'name':"Роджер Дикинс",'img':true,'films':19,'r':5.474},
-                            {'id':611243,'name':"Дариуш Вольски",'img':true,'films':16,'r':5.25},
-                            {'id':74952,'name':"Роберт Ричардсон",'img':true,'films':12,'r':6.667},
-                            {'id':609246,'name':"Дэвид Тэттерсолл",'img':true,'films':10,'r':5},
-                            {'id':608585,'name':"Мэттью Либатик",'img':true,'films':10,'r':4.9},
-                            {'id':8473,'name':"Питер Диминг",'img':true,'films':10,'r':5.6},
-                            {'id':85510,'name':"Дон Бёрджесс",'img':true,'films':9,'r':5.333},
-                            {'id':307904,'name':"Ньютон Томас Сигел",'img':true,'films':9,'r':4.667},
-                            {'id':608613,'name':"Уолли Пфистер",'img':true,'films':9,'r':5.556},
-                            {'id':51365,'name':"Гильермо Наварро",'img':true,'films':8,'r':5.625}]}},
+                            {'id':258609,'name':"Р РѕРґР¶РµСЂ Р”РёРєРёРЅСЃ",'img':true,'films':19,'r':5.474},
+                            {'id':611243,'name':"Р”Р°СЂРёСѓС€ Р’РѕР»СЊСЃРєРё",'img':true,'films':16,'r':5.25},
+                            {'id':74952,'name':"Р РѕР±РµСЂС‚ Р РёС‡Р°СЂРґСЃРѕРЅ",'img':true,'films':12,'r':6.667},
+                            {'id':609246,'name':"Р”СЌРІРёРґ РўСЌС‚С‚РµСЂСЃРѕР»Р»",'img':true,'films':10,'r':5},
+                            {'id':608585,'name':"РњСЌС‚С‚СЊСЋ Р›РёР±Р°С‚РёРє",'img':true,'films':10,'r':4.9},
+                            {'id':8473,'name':"РџРёС‚РµСЂ Р”РёРјРёРЅРі",'img':true,'films':10,'r':5.6},
+                            {'id':85510,'name':"Р”РѕРЅ Р‘С‘СЂРґР¶РµСЃСЃ",'img':true,'films':9,'r':5.333},
+                            {'id':307904,'name':"РќСЊСЋС‚РѕРЅ РўРѕРјР°СЃ РЎРёРіРµР»",'img':true,'films':9,'r':4.667},
+                            {'id':608613,'name':"РЈРѕР»Р»Рё РџС„РёСЃС‚РµСЂ",'img':true,'films':9,'r':5.556},
+                            {'id':51365,'name':"Р“РёР»СЊРµСЂРјРѕ РќР°РІР°СЂСЂРѕ",'img':true,'films':8,'r':5.625}]}},
                         'producer': {num: 401, page: 1, pages: 41, peoples: {'p1num': [
-                            {'id':2434,'name':"Боб Вайнштейн",'img':true,'films':37,'r':5.811},
-                            {'id':3205,'name':"Харви Вайнштейн",'img':true,'films':36,'r':5.806},
-                            {'id':712,'name':"Брюс Берман",'img':true,'films':30,'r':4.667},
-                            {'id':8242,'name':"Стэн Ли",'img':true,'films':29,'r':4.483},
-                            {'id':10015,'name':"Ридли Скотт",'img':true,'films':26,'r':4.962},
-                            {'id':14611,'name':"Арнон Милчен",'img':true,'films':24,'r':5},
-                            {'id':22260,'name':"Стивен Спилберг",'img':true,'films':24,'r':5.125},
-                            {'id':1074048,'name':"Томас Тулл",'img':true,'films':24,'r':5.375},
-                            {'id':22947,'name':"Сэмюэл Хадида",'img':true,'films':20,'r':4.35},
-                            {'id':8283,'name':"Кевин Файги",'img':true,'films':19,'r':4.474}]}},
+                            {'id':2434,'name':"Р‘РѕР± Р’Р°Р№РЅС€С‚РµР№РЅ",'img':true,'films':37,'r':5.811},
+                            {'id':3205,'name':"РҐР°СЂРІРё Р’Р°Р№РЅС€С‚РµР№РЅ",'img':true,'films':36,'r':5.806},
+                            {'id':712,'name':"Р‘СЂСЋСЃ Р‘РµСЂРјР°РЅ",'img':true,'films':30,'r':4.667},
+                            {'id':8242,'name':"РЎС‚СЌРЅ Р›Рё",'img':true,'films':29,'r':4.483},
+                            {'id':10015,'name':"Р РёРґР»Рё РЎРєРѕС‚С‚",'img':true,'films':26,'r':4.962},
+                            {'id':14611,'name':"РђСЂРЅРѕРЅ РњРёР»С‡РµРЅ",'img':true,'films':24,'r':5},
+                            {'id':22260,'name':"РЎС‚РёРІРµРЅ РЎРїРёР»Р±РµСЂРі",'img':true,'films':24,'r':5.125},
+                            {'id':1074048,'name':"РўРѕРјР°СЃ РўСѓР»Р»",'img':true,'films':24,'r':5.375},
+                            {'id':22947,'name':"РЎСЌРјСЋСЌР» РҐР°РґРёРґР°",'img':true,'films':20,'r':4.35},
+                            {'id':8283,'name':"РљРµРІРёРЅ Р¤Р°Р№РіРё",'img':true,'films':19,'r':4.474}]}},
                         'writer': {num: 91, page: 1, pages: 10, peoples: {'p1num': [
-                            {'id':24263,'name':"Стивен Кинг",'img':true,'films':19,'r':4.684},
-                            {'id':29954,'name':"Джек Кёрби",'img':true,'films':15,'r':4.333},
-                            {'id':8013,'name':"Дэвид С. Гойер",'img':true,'films':14,'r':4.5},
-                            {'id':24505,'name':"Люк Бессон",'img':true,'films':14,'r':4.571},
-                            {'id':8242,'name':"Стэн Ли",'img':true,'films':13,'r':4.538},
-                            {'id':7640,'name':"Квентин Тарантино",'img':true,'films':12,'r':6.667},
-                            {'id':12020,'name':"Джоэл Коэн",'img':true,'films':11,'r':5.727},
-                            {'id':12019,'name':"Итан Коэн",'img':true,'films':11,'r':5.727},
-                            {'id':27977,'name':"Джеймс Кэмерон",'img':true,'films':10,'r':6},
-                            {'id':24284,'name':"Джордж Лукас",'img':true,'films':10,'r':4.4}]}}
+                            {'id':24263,'name':"РЎС‚РёРІРµРЅ РљРёРЅРі",'img':true,'films':19,'r':4.684},
+                            {'id':29954,'name':"Р”Р¶РµРє РљС‘СЂР±Рё",'img':true,'films':15,'r':4.333},
+                            {'id':8013,'name':"Р”СЌРІРёРґ РЎ. Р“РѕР№РµСЂ",'img':true,'films':14,'r':4.5},
+                            {'id':24505,'name':"Р›СЋРє Р‘РµСЃСЃРѕРЅ",'img':true,'films':14,'r':4.571},
+                            {'id':8242,'name':"РЎС‚СЌРЅ Р›Рё",'img':true,'films':13,'r':4.538},
+                            {'id':7640,'name':"РљРІРµРЅС‚РёРЅ РўР°СЂР°РЅС‚РёРЅРѕ",'img':true,'films':12,'r':6.667},
+                            {'id':12020,'name':"Р”Р¶РѕСЌР» РљРѕСЌРЅ",'img':true,'films':11,'r':5.727},
+                            {'id':12019,'name':"РС‚Р°РЅ РљРѕСЌРЅ",'img':true,'films':11,'r':5.727},
+                            {'id':27977,'name':"Р”Р¶РµР№РјСЃ РљСЌРјРµСЂРѕРЅ",'img':true,'films':10,'r':6},
+                            {'id':24284,'name':"Р”Р¶РѕСЂРґР¶ Р›СѓРєР°СЃ",'img':true,'films':10,'r':4.4}]}}
                     };
                     var curr_who_is = 'actor';
                     var curr_sort = 'num';
@@ -1217,13 +1216,13 @@ $(function () {
                     }
 
                     var amplua = {
-                        'actor': 'Актеры',
-                        'director': 'Режиссеры',
-                        'writer': 'Сценаристы',
-                        'producer': 'Продюсеры',
-                        'operator': 'Операторы',
-                        'composer': 'Композиторы',
-                        'editor': 'Монтажеры',
+                        'actor': 'РђРєС‚РµСЂС‹',
+                        'director': 'Р РµР¶РёСЃСЃРµСЂС‹',
+                        'writer': 'РЎС†РµРЅР°СЂРёСЃС‚С‹',
+                        'producer': 'РџСЂРѕРґСЋСЃРµСЂС‹',
+                        'operator': 'РћРїРµСЂР°С‚РѕСЂС‹',
+                        'composer': 'РљРѕРјРїРѕР·РёС‚РѕСЂС‹',
+                        'editor': 'РњРѕРЅС‚Р°Р¶РµСЂС‹',
                     };
                     var opts = '';
                     var hash = window.location.hash.substr(1);
@@ -1298,7 +1297,7 @@ $(function () {
                         
 
                         curr_sort = curr_sort == 'num' ? 'avg' : 'num';
-                        $(this).text(curr_sort == 'num' ? 'отсортировать по оценке' : 'отсортировать по количеству фильмов');
+                        $(this).text(curr_sort == 'num' ? 'РѕС‚СЃРѕСЂС‚РёСЂРѕРІР°С‚СЊ РїРѕ РѕС†РµРЅРєРµ' : 'РѕС‚СЃРѕСЂС‚РёСЂРѕРІР°С‚СЊ РїРѕ РєРѕР»РёС‡РµСЃС‚РІСѓ С„РёР»СЊРјРѕРІ');
                         $.cookie(CURRENT_ACTOR_SORT_KEY, curr_sort, {expires: 365, path: '/', domain: '.kinopoisk.ru'});
                         genList();
                         return false;
@@ -1362,7 +1361,7 @@ $(function () {
                                 .find('#prev_list').toggle(page > 1).end()
                                 .find('#next_list').toggle(page < data[curr_who_is].pages);
 
-                        // хак Оперы: она порой не грузит графику, полученную аяксом
+                        // С…Р°Рє РћРїРµСЂС‹: РѕРЅР° РїРѕСЂРѕР№ РЅРµ РіСЂСѓР·РёС‚ РіСЂР°С„РёРєСѓ, РїРѕР»СѓС‡РµРЅРЅСѓСЋ Р°СЏРєСЃРѕРј
                         if ($.browser.opera) {
                             var reg = /^url\(["']?(.+?)["']?\)$/;
                             $('#persons .pic').each(function(){
@@ -1390,9 +1389,9 @@ $(function () {
 
                 <div class="settings_vote">
                     <a id="selectBoxAmplua" class="selectBoxAmplua">
-                        <span class="selectBoxAmplua-label">Актеры</span><span class="selectBox-arrow"></span>
+                        <span class="selectBoxAmplua-label">РђРєС‚РµСЂС‹</span><span class="selectBox-arrow"></span>
                     </a>
-                    <a class="sort_vote" href="#">отсортировать по оценке</a>
+                    <a class="sort_vote" href="#">РѕС‚СЃРѕСЂС‚РёСЂРѕРІР°С‚СЊ РїРѕ РѕС†РµРЅРєРµ</a>
                 </div>
                 <div class="actorsBlock" id="persons">
                    <div class="title">
@@ -1414,7 +1413,7 @@ $(function () {
                         <table cellspacing=0 cellpadding=0 border=0 width=100%>
                             <tr><td>
                                 
-                                    <h2 style="font-size: 18px; display: inline; padding: 0" class="main_title">История оценок (1257)</h2>
+                                    <h2 style="font-size: 18px; display: inline; padding: 0" class="main_title">РСЃС‚РѕСЂРёСЏ РѕС†РµРЅРѕРє (1257)</h2>
                                 
                                 <div style="height: 16px; overflow: hidden"></div>
                             </td></tr>
@@ -1437,24 +1436,24 @@ $(function () {
                             <input name="__anchor__" type="hidden" value="list" />
                             <table cellspacing=3 cellpadding=0 border=0>
                                 <tr>
-                                    <td width=138 height=20 class="news">сортировать оценки по:</td>
+                                    <td width=138 height=20 class="news">СЃРѕСЂС‚РёСЂРѕРІР°С‚СЊ РѕС†РµРЅРєРё РїРѕ:</td>
                                     <td width=3><br /></td>
-                                    <td style="padding: 0 5px" class="profile-nav"><b>дате</b></td>
-                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/rating/#list' class='all'>оценке</a></td>
-                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/name/#list' class='all'>названию фильма</a></td>
-                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/year/#list' class='all'>году</a></td>
-                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/kp/#list' class='all'>рейтингу КП</a></td>
-                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/num/#list' class='all'>числу оценок</a></td>
+                                    <td style="padding: 0 5px" class="profile-nav"><b>РґР°С‚Рµ</b></td>
+                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/rating/#list' class='all'>РѕС†РµРЅРєРµ</a></td>
+                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/name/#list' class='all'>РЅР°Р·РІР°РЅРёСЋ С„РёР»СЊРјР°</a></td>
+                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/year/#list' class='all'>РіРѕРґСѓ</a></td>
+                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/kp/#list' class='all'>СЂРµР№С‚РёРЅРіСѓ РљРџ</a></td>
+                                    <td style="padding: 0 5px" class="profile-nav"><a href='/user/2092256/votes/list/vs/vote/ord/num/#list' class='all'>С‡РёСЃР»Сѓ РѕС†РµРЅРѕРє</a></td>
                                 </tr>
                             </table>
 
                             
                                 <table cellspacing="3" cellpadding="0" border="0">
                                     <tr>
-                                        <td width="140" height="20" class="news">показать:</td>
+                                        <td width="140" height="20" class="news">РїРѕРєР°Р·Р°С‚СЊ:</td>
                                         <td width="3"><br /></td>
                                         <td width="80" class="profile-nav">
-                                            <b>все оценки</b>
+                                            <b>РІСЃРµ РѕС†РµРЅРєРё</b>
                                         </td>
                                         
                                             <td width="30" class="profile-nav">
@@ -1524,9 +1523,9 @@ $(function () {
                             
                                 <table cellspacing="3" cellpadding="0" border="0">
                                     <tr>
-                                        <td width=132 height=20 class="news">период времени</td>
+                                        <td width=132 height=20 class="news">РїРµСЂРёРѕРґ РІСЂРµРјРµРЅРё</td>
                                         <td width=3 style="width: 160px; color: #333; white-space: nowrap">
-                                            с:
+                                            СЃ:
                                             <select style="color: #333; font-family: tahoma; font-size: 11px; margin-right: 7px" id="sb_year_from" name="year_from">
                                                 
                                                     <option value="2022">2022</option>
@@ -1662,7 +1661,7 @@ $(function () {
                                                     <option value="1931" selected="selected">1931</option>
                                                 
                                             </select>
-                                            по:
+                                            РїРѕ:
                                             <select style="color: #333; font-family: tahoma; font-size: 11px" id="sb_year_to" name="year_to">
                                                 
                                                     <option value="2022" selected="selected">2022</option>
@@ -1799,15 +1798,15 @@ $(function () {
                                                 
                                             </select>
                                         </td>
-                                        <td width="70"><input type="submit" value="выбрать" style="color: #333; font-size: 11px" /></td>
+                                        <td width="70"><input type="submit" value="РІС‹Р±СЂР°С‚СЊ" style="color: #333; font-size: 11px" /></td>
                                     </tr>
                                 </table>
                             
                             <div style="float: none; padding-top: 0" class="votesAndSelect">
-                                <span style="color: #333; padding: 0 89px 0 3px">показать:</span>
+                                <span style="color: #333; padding: 0 89px 0 3px">РїРѕРєР°Р·Р°С‚СЊ:</span>
                                 <select size="1" name="vs" id="sb_vs" style="width: 217px">
-                                    <option value="vote" selected="selected">оценки</option>
-                                    <option value="novote">просмотры</option>
+                                    <option value="vote" selected="selected">РѕС†РµРЅРєРё</option>
+                                    <option value="novote">РїСЂРѕСЃРјРѕС‚СЂС‹</option>
                                 </select>
                             </div>
                         </form>
@@ -1823,20 +1822,20 @@ $(function () {
                                 .sorts .gray a {color: #777 !important}
                             </style>
                             <dl class="sorts"  >
-                                <dt>+ моя оценка:</dt>
+                                <dt>+ РјРѕСЏ РѕС†РµРЅРєР°:</dt>
                                 <dd style="width: 99px">
                                     <b>
-                                    все фильмы
+                                    РІСЃРµ С„РёР»СЊРјС‹
                                     </b>
                                 </dd>
                                 <dd style="width: 93px">
                                     <a href="/user/2092256/votes/list/vs/vote/vt/my/#list">
-                                    с моей оценкой
+                                    СЃ РјРѕРµР№ РѕС†РµРЅРєРѕР№
                                     </a>
                                 </dd>
                                 <dd style="width: 106px">
                                     <a href="/user/2092256/votes/list/vs/vote/vt/nomy/#list">
-                                    без моей оценки
+                                    Р±РµР· РјРѕРµР№ РѕС†РµРЅРєРё
                                     </a>
                                 </dd>
                             </dl>
@@ -1856,7 +1855,7 @@ $(function () {
                             <div class="voter_bar">
                                <div class="gray_line"></div>
                                <div class="lightorange_line">
-                                  <div class="title">мои оценки</div>
+                                  <div class="title">РјРѕРё РѕС†РµРЅРєРё</div>
                                   <div class="nums" style="width: 0%">3 / 1257 <b>&bull;</b> 0%</div>
                                   <div class="bar" style="width: 0%"></div>
                                </div>
@@ -1875,7 +1874,7 @@ ancher = '#list';
     
         
             <div class="show">
-                <u>показывать:</u>
+                <u>РїРѕРєР°Р·С‹РІР°С‚СЊ:</u>
                 <select class="navigator_per_page">
                     <option value="10">10</option>
                     <option value="25">25</option>
@@ -1916,7 +1915,7 @@ ancher = '#list';
             
         </ul>
     
-    <div class="pagesFromTo">1&mdash;50 из 1257</div>
+    <div class="pagesFromTo">1&mdash;50 РёР· 1257</div>
 </div>
 
                         </div>
@@ -1984,33 +1983,33 @@ ancher = '#list';
                         </style>
                         <div class="search_vote">
                             <div class="searchLoader"></div>
-                            <input class="text" type="text" id="search_vote_input" uid="2092256" value="найти фильм"
-                                onblur="if($(this).val()=='') $(this).val('найти фильм')" onfocus="if($(this).val()=='найти фильм') $(this).val('')" />
+                            <input class="text" type="text" id="search_vote_input" uid="2092256" value="РЅР°Р№С‚Рё С„РёР»СЊРј"
+                                onblur="if($(this).val()=='') $(this).val('РЅР°Р№С‚Рё С„РёР»СЊРј')" onfocus="if($(this).val()=='РЅР°Р№С‚Рё С„РёР»СЊРј') $(this).val('')" />
 
                             
                         </div>
                         <div class="profileFilmsList">
                             <div class="top">
-                              <div class="num">№</div>
-                              <div class="name">фильм</div>
-                              <div class="date">дата и время</div>
+                              <div class="num">в„–</div>
+                              <div class="name">С„РёР»СЊРј</div>
+                              <div class="date">РґР°С‚Р° Рё РІСЂРµРјСЏ</div>
                               <div class="ya-sync"></div>
-                              <div class="vote">оценка EvilArthas</div>
-                              <div class="vote myvote">моя<br />оценка</div>
+                              <div class="vote">РѕС†РµРЅРєР° EvilArthas</div>
+                              <div class="vote myvote">РјРѕСЏ<br />РѕС†РµРЅРєР°</div>
                               <div class="clear"></div>
                             </div>
                             
                                 <div class="item">
                                       <div class="num">1</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/4365427/">Уэнсдэй (сериал, 2022 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/4365427/">РЈСЌРЅСЃРґСЌР№ (СЃРµСЂРёР°Р», 2022 &ndash; ...)</a></div>
                                          <div class="nameEng">Wednesday</div>
                                          <div class="rating">
                                              
                                                  <b>8.072</b>
                                                  <span class="text-grey">(329&nbsp;215)</span>
                                              
-                                             <span class="text-grey">45 мин.</span>
+                                             <span class="text-grey">45 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2019,7 +2018,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >3</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_4365427">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_4365427">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_4365427" type="film" mid="4365427"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_4365427").folder({objId: 4365427, objType: "film", template : "shortest"});
@@ -2034,14 +2033,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">2</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/4360157/">Хрустальный (сериал, 2021)</a></div>
+                                         <div class="nameRus"><a href="/series/4360157/">РҐСЂСѓСЃС‚Р°Р»СЊРЅС‹Р№ (СЃРµСЂРёР°Р», 2021)</a></div>
                                          
                                          <div class="rating">
                                              
                                                  <b>8.074</b>
                                                  <span class="text-grey">(59&nbsp;529)</span>
                                              
-                                             <span class="text-grey">50 мин.</span>
+                                             <span class="text-grey">50 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          <div class="nameEng">&nbsp;</div>
@@ -2050,7 +2049,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_4360157">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_4360157">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_4360157" type="film" mid="4360157"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_4360157").folder({objId: 4360157, objType: "film", template : "shortest"});
@@ -2065,14 +2064,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">3</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/1392550/">Быстрее пули (2022)</a></div>
+                                         <div class="nameRus"><a href="/film/1392550/">Р‘С‹СЃС‚СЂРµРµ РїСѓР»Рё (2022)</a></div>
                                          <div class="nameEng">Bullet Train</div>
                                          <div class="rating">
                                              
                                                  <b>7.662</b>
                                                  <span class="text-grey">(128&nbsp;408)</span>
                                              
-                                             <span class="text-grey">126 мин.</span>
+                                             <span class="text-grey">126 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2081,7 +2080,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >3</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1392550">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1392550">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1392550" type="film" mid="1392550"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1392550").folder({objId: 1392550, objType: "film", template : "shortest"});
@@ -2096,14 +2095,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">4</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/972587/">Барри (сериал, 2018 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/972587/">Р‘Р°СЂСЂРё (СЃРµСЂРёР°Р», 2018 &ndash; ...)</a></div>
                                          <div class="nameEng">Barry</div>
                                          <div class="rating">
                                              
                                                  <b>7.668</b>
                                                  <span class="text-grey">(15&nbsp;893)</span>
                                              
-                                             <span class="text-grey">30 мин.</span>
+                                             <span class="text-grey">30 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2112,7 +2111,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_972587">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_972587">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_972587" type="film" mid="972587"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_972587").folder({objId: 972587, objType: "film", template : "shortest"});
@@ -2127,14 +2126,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">5</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/77335/">Собачье сердце (1988)</a></div>
+                                         <div class="nameRus"><a href="/film/77335/">РЎРѕР±Р°С‡СЊРµ СЃРµСЂРґС†Рµ (1988)</a></div>
                                          
                                          <div class="rating">
                                              
                                                  <b>8.369</b>
                                                  <span class="text-grey">(314&nbsp;990)</span>
                                              
-                                             <span class="text-grey">136 мин.</span>
+                                             <span class="text-grey">136 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          <div class="nameEng">&nbsp;</div>
@@ -2143,7 +2142,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_77335">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_77335">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_77335" type="film" mid="77335"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_77335").folder({objId: 77335, objType: "film", template : "shortest"});
@@ -2158,14 +2157,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">6</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/47382/">Пиджак (2004)</a></div>
+                                         <div class="nameRus"><a href="/film/47382/">РџРёРґР¶Р°Рє (2004)</a></div>
                                          <div class="nameEng">The Jacket</div>
                                          <div class="rating">
                                              
                                                  <b>7.754</b>
                                                  <span class="text-grey">(178&nbsp;933)</span>
                                              
-                                             <span class="text-grey">102 мин.</span>
+                                             <span class="text-grey">102 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2174,7 +2173,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >7</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_47382">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_47382">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_47382" type="film" mid="47382"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_47382").folder({objId: 47382, objType: "film", template : "shortest"});
@@ -2189,14 +2188,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">7</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/571/">Схватка (1995)</a></div>
+                                         <div class="nameRus"><a href="/film/571/">РЎС…РІР°С‚РєР° (1995)</a></div>
                                          <div class="nameEng">Heat</div>
                                          <div class="rating">
                                              
                                                  <b>8.031</b>
                                                  <span class="text-grey">(139&nbsp;260)</span>
                                              
-                                             <span class="text-grey">171 мин.</span>
+                                             <span class="text-grey">171 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2205,7 +2204,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_571">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_571">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_571" type="film" mid="571"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_571").folder({objId: 571, objType: "film", template : "shortest"});
@@ -2220,14 +2219,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">8</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/312/">Властелин колец: Две крепости (2002)</a></div>
+                                         <div class="nameRus"><a href="/film/312/">Р’Р»Р°СЃС‚РµР»РёРЅ РєРѕР»РµС†: Р”РІРµ РєСЂРµРїРѕСЃС‚Рё (2002)</a></div>
                                          <div class="nameEng">The Lord of the Rings: The Two Towers</div>
                                          <div class="rating">
                                              
                                                  <b>8.599</b>
                                                  <span class="text-grey">(536&nbsp;146)</span>
                                              
-                                             <span class="text-grey">179 мин.</span>
+                                             <span class="text-grey">179 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2236,7 +2235,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_312">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_312">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_312" type="film" mid="312"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_312").folder({objId: 312, objType: "film", template : "shortest"});
@@ -2251,14 +2250,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">9</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/3498/">Властелин колец: Возвращение короля (2003)</a></div>
+                                         <div class="nameRus"><a href="/film/3498/">Р’Р»Р°СЃС‚РµР»РёРЅ РєРѕР»РµС†: Р’РѕР·РІСЂР°С‰РµРЅРёРµ РєРѕСЂРѕР»СЏ (2003)</a></div>
                                          <div class="nameEng">The Lord of the Rings: The Return of the King</div>
                                          <div class="rating">
                                              
                                                  <b>8.654</b>
                                                  <span class="text-grey">(546&nbsp;442)</span>
                                              
-                                             <span class="text-grey">201 мин.</span>
+                                             <span class="text-grey">201 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2267,7 +2266,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_3498">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_3498">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_3498" type="film" mid="3498"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_3498").folder({objId: 3498, objType: "film", template : "shortest"});
@@ -2282,14 +2281,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">10</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/328/">Властелин колец: Братство Кольца (2001)</a></div>
+                                         <div class="nameRus"><a href="/film/328/">Р’Р»Р°СЃС‚РµР»РёРЅ РєРѕР»РµС†: Р‘СЂР°С‚СЃС‚РІРѕ РљРѕР»СЊС†Р° (2001)</a></div>
                                          <div class="nameEng">The Lord of the Rings: The Fellowship of the Ring</div>
                                          <div class="rating">
                                              
                                                  <b>8.602</b>
                                                  <span class="text-grey">(604&nbsp;759)</span>
                                              
-                                             <span class="text-grey">178 мин.</span>
+                                             <span class="text-grey">178 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2298,7 +2297,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_328">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_328">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_328" type="film" mid="328"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_328").folder({objId: 328, objType: "film", template : "shortest"});
@@ -2313,7 +2312,7 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">11</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1112513/">Властелин колец: Кольца власти (сериал, 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/1112513/">Р’Р»Р°СЃС‚РµР»РёРЅ РєРѕР»РµС†: РљРѕР»СЊС†Р° РІР»Р°СЃС‚Рё (СЃРµСЂРёР°Р», 2022)</a></div>
                                          <div class="nameEng">The Lord of the Rings: The Rings of Power</div>
                                          <div class="rating">
                                              
@@ -2329,7 +2328,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1112513">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1112513">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1112513" type="film" mid="1112513"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1112513").folder({objId: 1112513, objType: "film", template : "shortest"});
@@ -2344,14 +2343,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">12</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/4397580/">Чёрная птица (мини-сериал, 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/4397580/">Р§С‘СЂРЅР°СЏ РїС‚РёС†Р° (РјРёРЅРё-СЃРµСЂРёР°Р», 2022)</a></div>
                                          <div class="nameEng">Black Bird</div>
                                          <div class="rating">
                                              
                                                  <b>7.753</b>
                                                  <span class="text-grey">(32&nbsp;114)</span>
                                              
-                                             <span class="text-grey">347 мин.</span>
+                                             <span class="text-grey">347 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2360,7 +2359,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_4397580">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_4397580">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_4397580" type="film" mid="4397580"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_4397580").folder({objId: 4397580, objType: "film", template : "shortest"});
@@ -2375,14 +2374,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">13</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/94866/">Готти (1996)</a></div>
+                                         <div class="nameRus"><a href="/film/94866/">Р“РѕС‚С‚Рё (1996)</a></div>
                                          <div class="nameEng">Gotti</div>
                                          <div class="rating">
                                              
                                                  <b>7.535</b>
                                                  <span class="text-grey">(2&nbsp;333)</span>
                                              
-                                             <span class="text-grey">117 мин.</span>
+                                             <span class="text-grey">117 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2391,7 +2390,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_94866">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_94866">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_94866" type="film" mid="94866"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_94866").folder({objId: 94866, objType: "film", template : "shortest"});
@@ -2406,14 +2405,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">14</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/574740/">Песочный человек (сериал, 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/574740/">РџРµСЃРѕС‡РЅС‹Р№ С‡РµР»РѕРІРµРє (СЃРµСЂРёР°Р», 2022)</a></div>
                                          <div class="nameEng">The Sandman</div>
                                          <div class="rating">
                                              
                                                  <b>7.113</b>
                                                  <span class="text-grey">(25&nbsp;340)</span>
                                              
-                                             <span class="text-grey">45 мин.</span>
+                                             <span class="text-grey">45 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2422,7 +2421,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >1</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_574740">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_574740">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_574740" type="film" mid="574740"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_574740").folder({objId: 574740, objType: "film", template : "shortest"});
@@ -2437,14 +2436,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">15</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/572032/">Топ Ган: Мэверик (2022)</a></div>
+                                         <div class="nameRus"><a href="/film/572032/">РўРѕРї Р“Р°РЅ: РњСЌРІРµСЂРёРє (2022)</a></div>
                                          <div class="nameEng">Top Gun: Maverick</div>
                                          <div class="rating">
                                              
                                                  <b>7.761</b>
                                                  <span class="text-grey">(85&nbsp;682)</span>
                                              
-                                             <span class="text-grey">130 мин.</span>
+                                             <span class="text-grey">130 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2453,7 +2452,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >5</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_572032">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_572032">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_572032" type="film" mid="572032"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_572032").folder({objId: 572032, objType: "film", template : "shortest"});
@@ -2468,14 +2467,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">16</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/1686/">Жажда смерти (1974)</a></div>
+                                         <div class="nameRus"><a href="/film/1686/">Р–Р°Р¶РґР° СЃРјРµСЂС‚Рё (1974)</a></div>
                                          <div class="nameEng">Death Wish</div>
                                          <div class="rating">
                                              
                                                  <b>7.160</b>
                                                  <span class="text-grey">(4&nbsp;405)</span>
                                              
-                                             <span class="text-grey">93 мин.</span>
+                                             <span class="text-grey">93 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2484,7 +2483,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >5</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1686">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1686">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1686" type="film" mid="1686"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1686").folder({objId: 1686, objType: "film", template : "shortest"});
@@ -2499,14 +2498,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">17</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/4466/">Что гложет Гилберта Грейпа (1993)</a></div>
+                                         <div class="nameRus"><a href="/film/4466/">Р§С‚Рѕ РіР»РѕР¶РµС‚ Р“РёР»Р±РµСЂС‚Р° Р“СЂРµР№РїР° (1993)</a></div>
                                          <div class="nameEng">What's Eating Gilbert Grape</div>
                                          <div class="rating">
                                              
                                                  <b>7.926</b>
                                                  <span class="text-grey">(111&nbsp;440)</span>
                                              
-                                             <span class="text-grey">118 мин.</span>
+                                             <span class="text-grey">118 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2515,7 +2514,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >3</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_4466">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_4466">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_4466" type="film" mid="4466"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_4466").folder({objId: 4466, objType: "film", template : "shortest"});
@@ -2530,14 +2529,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">18</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/460586/">Пацаны (сериал, 2019 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/460586/">РџР°С†Р°РЅС‹ (СЃРµСЂРёР°Р», 2019 &ndash; ...)</a></div>
                                          <div class="nameEng">The Boys</div>
                                          <div class="rating">
                                              
                                                  <b>8.302</b>
                                                  <span class="text-grey">(195&nbsp;240)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2546,7 +2545,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_460586">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_460586">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_460586" type="film" mid="460586"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_460586").folder({objId: 460586, objType: "film", template : "shortest"});
@@ -2561,14 +2560,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">19</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/4397594/">1883 (сериал, 2021 &ndash; 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/4397594/">1883 (СЃРµСЂРёР°Р», 2021 &ndash; 2022)</a></div>
                                          
                                          <div class="rating">
                                              
                                                  <b>7.845</b>
                                                  <span class="text-grey">(7&nbsp;957)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          <div class="nameEng">&nbsp;</div>
@@ -2577,7 +2576,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_4397594">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_4397594">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_4397594" type="film" mid="4397594"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_4397594").folder({objId: 4397594, objType: "film", template : "shortest"});
@@ -2592,14 +2591,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">20</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/771194/">Halo (сериал, 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/771194/">Halo (СЃРµСЂРёР°Р», 2022)</a></div>
                                          
                                          <div class="rating">
                                              
                                                  <b>7.036</b>
                                                  <span class="text-grey">(30&nbsp;671)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          <div class="nameEng">&nbsp;</div>
@@ -2608,7 +2607,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_771194">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_771194">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_771194" type="film" mid="771194"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_771194").folder({objId: 771194, objType: "film", template : "shortest"});
@@ -2623,14 +2622,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">21</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/257376/">Берсерк (сериал, 1997 &ndash; 1998)</a></div>
+                                         <div class="nameRus"><a href="/series/257376/">Р‘РµСЂСЃРµСЂРє (СЃРµСЂРёР°Р», 1997 &ndash; 1998)</a></div>
                                          <div class="nameEng">Kenpu denki baruseruku</div>
                                          <div class="rating">
                                              
                                                  <b>8.588</b>
                                                  <span class="text-grey">(36&nbsp;473)</span>
                                              
-                                             <span class="text-grey">25 мин.</span>
+                                             <span class="text-grey">25 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2639,7 +2638,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_257376">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_257376">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_257376" type="film" mid="257376"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_257376").folder({objId: 257376, objType: "film", template : "shortest"});
@@ -2654,7 +2653,7 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">22</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1160046/">Оби-Ван Кеноби (мини-сериал, 2022 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/1160046/">РћР±Рё-Р’Р°РЅ РљРµРЅРѕР±Рё (РјРёРЅРё-СЃРµСЂРёР°Р», 2022 &ndash; ...)</a></div>
                                          <div class="nameEng">Obi-Wan Kenobi</div>
                                          <div class="rating">
                                              
@@ -2670,7 +2669,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >1</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1160046">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1160046">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1160046" type="film" mid="1160046"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1160046").folder({objId: 1160046, objType: "film", template : "shortest"});
@@ -2685,14 +2684,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">23</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/701593/">Шулер (сериал, 2013)</a></div>
+                                         <div class="nameRus"><a href="/series/701593/">РЁСѓР»РµСЂ (СЃРµСЂРёР°Р», 2013)</a></div>
                                          
                                          <div class="rating">
                                              
                                                  <b>7.823</b>
                                                  <span class="text-grey">(22&nbsp;398)</span>
                                              
-                                             <span class="text-grey">52 мин.</span>
+                                             <span class="text-grey">52 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          <div class="nameEng">&nbsp;</div>
@@ -2701,7 +2700,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >3</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_701593">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_701593">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_701593" type="film" mid="701593"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_701593").folder({objId: 701593, objType: "film", template : "shortest"});
@@ -2716,14 +2715,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">24</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/1313198/">Варяг (2022)</a></div>
+                                         <div class="nameRus"><a href="/film/1313198/">Р’Р°СЂСЏРі (2022)</a></div>
                                          <div class="nameEng">The Northman</div>
                                          <div class="rating">
                                              
                                                  <b>6.761</b>
                                                  <span class="text-grey">(56&nbsp;169)</span>
                                              
-                                             <span class="text-grey">137 мин.</span>
+                                             <span class="text-grey">137 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2732,7 +2731,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >2</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1313198">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1313198">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1313198" type="film" mid="1313198"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1313198").folder({objId: 1313198, objType: "film", template : "shortest"});
@@ -2747,14 +2746,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">25</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/334/">Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу (1963)</a></div>
+                                         <div class="nameRus"><a href="/film/334/">Р”РѕРєС‚РѕСЂ РЎС‚СЂРµР№РЅРґР¶Р»Р°РІ, РёР»Рё РљР°Рє СЏ РЅР°СѓС‡РёР»СЃСЏ РЅРµ РІРѕР»РЅРѕРІР°С‚СЊСЃСЏ Рё РїРѕР»СЋР±РёР» Р°С‚РѕРјРЅСѓСЋ Р±РѕРјР±Сѓ (1963)</a></div>
                                          <div class="nameEng">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</div>
                                          <div class="rating">
                                              
                                                  <b>8.027</b>
                                                  <span class="text-grey">(62&nbsp;822)</span>
                                              
-                                             <span class="text-grey">95 мин.</span>
+                                             <span class="text-grey">95 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2763,7 +2762,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >7</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_334">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_334">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_334" type="film" mid="334"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_334").folder({objId: 334, objType: "film", template : "shortest"});
@@ -2778,14 +2777,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">26</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1355149/">Внешние сферы (сериал, 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/1355149/">Р’РЅРµС€РЅРёРµ СЃС„РµСЂС‹ (СЃРµСЂРёР°Р», 2022)</a></div>
                                          <div class="nameEng">Outer Range</div>
                                          <div class="rating">
                                              
                                                  <b>6.405</b>
                                                  <span class="text-grey">(1&nbsp;499)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2794,7 +2793,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >3</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1355149">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1355149">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1355149" type="film" mid="1355149"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1355149").folder({objId: 1355149, objType: "film", template : "shortest"});
@@ -2809,14 +2808,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">27</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/590286/">Бэтмен (2022)</a></div>
+                                         <div class="nameRus"><a href="/film/590286/">Р‘СЌС‚РјРµРЅ (2022)</a></div>
                                          <div class="nameEng">The Batman</div>
                                          <div class="rating">
                                              
                                                  <b>7.216</b>
                                                  <span class="text-grey">(153&nbsp;826)</span>
                                              
-                                             <span class="text-grey">176 мин.</span>
+                                             <span class="text-grey">176 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2825,7 +2824,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_590286">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_590286">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_590286" type="film" mid="590286"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_590286").folder({objId: 590286, objType: "film", template : "shortest"});
@@ -2840,14 +2839,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">28</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1309595/">Кликбейт (мини-сериал, 2021)</a></div>
+                                         <div class="nameRus"><a href="/series/1309595/">РљР»РёРєР±РµР№С‚ (РјРёРЅРё-СЃРµСЂРёР°Р», 2021)</a></div>
                                          <div class="nameEng">Clickbait</div>
                                          <div class="rating">
                                              
                                                  <b>7.125</b>
                                                  <span class="text-grey">(7&nbsp;736)</span>
                                              
-                                             <span class="text-grey">45 мин.</span>
+                                             <span class="text-grey">45 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2856,7 +2855,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >1</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1309595">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1309595">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1309595" type="film" mid="1309595"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1309595").folder({objId: 1309595, objType: "film", template : "shortest"});
@@ -2871,14 +2870,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">29</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1367856/">Мы все мертвы (сериал, 2022 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/1367856/">РњС‹ РІСЃРµ РјРµСЂС‚РІС‹ (СЃРµСЂРёР°Р», 2022 &ndash; ...)</a></div>
                                          <div class="nameEng">Jigeum uri hakgyoneun</div>
                                          <div class="rating">
                                              
                                                  <b>6.863</b>
                                                  <span class="text-grey">(30&nbsp;355)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2887,7 +2886,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >7</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1367856">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1367856">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1367856" type="film" mid="1367856"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1367856").folder({objId: 1367856, objType: "film", template : "shortest"});
@@ -2902,14 +2901,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">30</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/378244/">Ликвидация (сериал, 2007)</a></div>
+                                         <div class="nameRus"><a href="/series/378244/">Р›РёРєРІРёРґР°С†РёСЏ (СЃРµСЂРёР°Р», 2007)</a></div>
                                          
                                          <div class="rating">
                                              
                                                  <b>8.482</b>
                                                  <span class="text-grey">(170&nbsp;652)</span>
                                              
-                                             <span class="text-grey">45 мин.</span>
+                                             <span class="text-grey">45 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          <div class="nameEng">&nbsp;</div>
@@ -2918,7 +2917,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_378244">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_378244">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_378244" type="film" mid="378244"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_378244").folder({objId: 378244, objType: "film", template : "shortest"});
@@ -2933,14 +2932,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">31</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/361/">Бойцовский клуб (1999)</a></div>
+                                         <div class="nameRus"><a href="/film/361/">Р‘РѕР№С†РѕРІСЃРєРёР№ РєР»СѓР± (1999)</a></div>
                                          <div class="nameEng">Fight Club</div>
                                          <div class="rating">
                                              
                                                  <b>8.653</b>
                                                  <span class="text-grey">(771&nbsp;238)</span>
                                              
-                                             <span class="text-grey">139 мин.</span>
+                                             <span class="text-grey">139 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2949,7 +2948,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >9</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_361">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_361">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_361" type="film" mid="361"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_361").folder({objId: 361, objType: "film", template : "shortest"});
@@ -2964,14 +2963,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">32</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/461939/">Линкольн для адвоката (2011)</a></div>
+                                         <div class="nameRus"><a href="/film/461939/">Р›РёРЅРєРѕР»СЊРЅ РґР»СЏ Р°РґРІРѕРєР°С‚Р° (2011)</a></div>
                                          <div class="nameEng">The Lincoln Lawyer</div>
                                          <div class="rating">
                                              
                                                  <b>7.861</b>
                                                  <span class="text-grey">(378&nbsp;442)</span>
                                              
-                                             <span class="text-grey">114 мин.</span>
+                                             <span class="text-grey">114 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -2980,7 +2979,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >5</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_461939">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_461939">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_461939" type="film" mid="461939"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_461939").folder({objId: 461939, objType: "film", template : "shortest"});
@@ -2995,14 +2994,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">33</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/7687/">Полуночный экспресс (1978)</a></div>
+                                         <div class="nameRus"><a href="/film/7687/">РџРѕР»СѓРЅРѕС‡РЅС‹Р№ СЌРєСЃРїСЂРµСЃСЃ (1978)</a></div>
                                          <div class="nameEng">Midnight Express</div>
                                          <div class="rating">
                                              
                                                  <b>7.834</b>
                                                  <span class="text-grey">(17&nbsp;667)</span>
                                              
-                                             <span class="text-grey">121 мин.</span>
+                                             <span class="text-grey">121 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3011,7 +3010,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >5</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_7687">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_7687">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_7687" type="film" mid="7687"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_7687").folder({objId: 7687, objType: "film", template : "shortest"});
@@ -3026,14 +3025,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">34</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1209839/">Джек Ричер (сериал, 2022)</a></div>
+                                         <div class="nameRus"><a href="/series/1209839/">Р”Р¶РµРє Р РёС‡РµСЂ (СЃРµСЂРёР°Р», 2022)</a></div>
                                          <div class="nameEng">Reacher</div>
                                          <div class="rating">
                                              
                                                  <b>7.309</b>
                                                  <span class="text-grey">(14&nbsp;053)</span>
                                              
-                                             <span class="text-grey">49 мин.</span>
+                                             <span class="text-grey">49 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3042,7 +3041,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1209839">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1209839">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1209839" type="film" mid="1209839"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1209839").folder({objId: 1209839, objType: "film", template : "shortest"});
@@ -3057,14 +3056,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">35</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1421587/">Миротворец (сериал, 2022 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/1421587/">РњРёСЂРѕС‚РІРѕСЂРµС† (СЃРµСЂРёР°Р», 2022 &ndash; ...)</a></div>
                                          <div class="nameEng">Peacemaker</div>
                                          <div class="rating">
                                              
                                                  <b>8.056</b>
                                                  <span class="text-grey">(93&nbsp;350)</span>
                                              
-                                             <span class="text-grey">40 мин.</span>
+                                             <span class="text-grey">40 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3073,7 +3072,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >3</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1421587">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1421587">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1421587" type="film" mid="1421587"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1421587").folder({objId: 1421587, objType: "film", template : "shortest"});
@@ -3088,14 +3087,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">36</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/94249/">Братья по оружию (сериал, 2001)</a></div>
+                                         <div class="nameRus"><a href="/series/94249/">Р‘СЂР°С‚СЊСЏ РїРѕ РѕСЂСѓР¶РёСЋ (СЃРµСЂРёР°Р», 2001)</a></div>
                                          <div class="nameEng">Band of Brothers</div>
                                          <div class="rating">
                                              
                                                  <b>8.638</b>
                                                  <span class="text-grey">(56&nbsp;251)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3104,7 +3103,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_94249">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_94249">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_94249" type="film" mid="94249"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_94249").folder({objId: 94249, objType: "film", template : "shortest"});
@@ -3119,14 +3118,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">37</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/3628/">Суровое испытание (1996)</a></div>
+                                         <div class="nameRus"><a href="/film/3628/">РЎСѓСЂРѕРІРѕРµ РёСЃРїС‹С‚Р°РЅРёРµ (1996)</a></div>
                                          <div class="nameEng">The Crucible</div>
                                          <div class="rating">
                                              
                                                  <b>7.111</b>
                                                  <span class="text-grey">(3&nbsp;525)</span>
                                              
-                                             <span class="text-grey">124 мин.</span>
+                                             <span class="text-grey">124 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3135,7 +3134,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >7</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_3628">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_3628">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_3628" type="film" mid="3628"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_3628").folder({objId: 3628, objType: "film", template : "shortest"});
@@ -3150,14 +3149,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">38</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1197901/">Колесо времени (сериал, 2021)</a></div>
+                                         <div class="nameRus"><a href="/series/1197901/">РљРѕР»РµСЃРѕ РІСЂРµРјРµРЅРё (СЃРµСЂРёР°Р», 2021)</a></div>
                                          <div class="nameEng">The Wheel of Time</div>
                                          <div class="rating">
                                              
                                                  <b>6.136</b>
                                                  <span class="text-grey">(17&nbsp;352)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3166,7 +3165,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >2</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1197901">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1197901">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1197901" type="film" mid="1197901"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1197901").folder({objId: 1197901, objType: "film", template : "shortest"});
@@ -3181,14 +3180,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">39</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/1294123/">Матрица: Воскрешение (2021)</a></div>
+                                         <div class="nameRus"><a href="/film/1294123/">РњР°С‚СЂРёС†Р°: Р’РѕСЃРєСЂРµС€РµРЅРёРµ (2021)</a></div>
                                          <div class="nameEng">The Matrix Resurrections</div>
                                          <div class="rating">
                                              
                                                  <b>5.748</b>
                                                  <span class="text-grey">(160&nbsp;613)</span>
                                              
-                                             <span class="text-grey">148 мин.</span>
+                                             <span class="text-grey">148 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3197,7 +3196,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >1</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1294123">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1294123">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1294123" type="film" mid="1294123"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1294123").folder({objId: 1294123, objType: "film", template : "shortest"});
@@ -3212,14 +3211,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">40</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/1289738/">Последняя дуэль (2021)</a></div>
+                                         <div class="nameRus"><a href="/film/1289738/">РџРѕСЃР»РµРґРЅСЏСЏ РґСѓСЌР»СЊ (2021)</a></div>
                                          <div class="nameEng">The Last Duel</div>
                                          <div class="rating">
                                              
                                                  <b>7.385</b>
                                                  <span class="text-grey">(94&nbsp;399)</span>
                                              
-                                             <span class="text-grey">152 мин.</span>
+                                             <span class="text-grey">152 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3228,7 +3227,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >7</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1289738">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1289738">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1289738" type="film" mid="1289738"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1289738").folder({objId: 1289738, objType: "film", template : "shortest"});
@@ -3243,14 +3242,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">41</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/1338480/">Не смотрите наверх (2021)</a></div>
+                                         <div class="nameRus"><a href="/film/1338480/">РќРµ СЃРјРѕС‚СЂРёС‚Рµ РЅР°РІРµСЂС… (2021)</a></div>
                                          <div class="nameEng">Don't Look Up</div>
                                          <div class="rating">
                                              
                                                  <b>7.509</b>
                                                  <span class="text-grey">(230&nbsp;668)</span>
                                              
-                                             <span class="text-grey">138 мин.</span>
+                                             <span class="text-grey">138 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3259,7 +3258,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >5</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1338480">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1338480">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1338480" type="film" mid="1338480"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1338480").folder({objId: 1338480, objType: "film", template : "shortest"});
@@ -3274,14 +3273,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">42</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1044004/">Ведьмак (сериал, 2019 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/1044004/">Р’РµРґСЊРјР°Рє (СЃРµСЂРёР°Р», 2019 &ndash; ...)</a></div>
                                          <div class="nameEng">The Witcher</div>
                                          <div class="rating">
                                              
                                                  <b>7.267</b>
                                                  <span class="text-grey">(380&nbsp;433)</span>
                                              
-                                             <span class="text-grey">60 мин.</span>
+                                             <span class="text-grey">60 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3290,7 +3289,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1044004">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1044004">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1044004" type="film" mid="1044004"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1044004").folder({objId: 1044004, objType: "film", template : "shortest"});
@@ -3305,14 +3304,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">43</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/462765/">Основание (сериал, 2021)</a></div>
+                                         <div class="nameRus"><a href="/series/462765/">РћСЃРЅРѕРІР°РЅРёРµ (СЃРµСЂРёР°Р», 2021)</a></div>
                                          <div class="nameEng">Foundation</div>
                                          <div class="rating">
                                              
                                                  <b>6.849</b>
                                                  <span class="text-grey">(25&nbsp;253)</span>
                                              
-                                             <span class="text-grey">70 мин.</span>
+                                             <span class="text-grey">70 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3321,7 +3320,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_462765">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_462765">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_462765" type="film" mid="462765"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_462765").folder({objId: 462765, objType: "film", template : "shortest"});
@@ -3336,14 +3335,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">44</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/180613/">Дилер&nbsp;3 (2005)</a></div>
+                                         <div class="nameRus"><a href="/film/180613/">Р”РёР»РµСЂ&nbsp;3 (2005)</a></div>
                                          <div class="nameEng">Pusher III</div>
                                          <div class="rating">
                                              
                                                  <b>7.098</b>
                                                  <span class="text-grey">(14&nbsp;723)</span>
                                              
-                                             <span class="text-grey">103 мин.</span>
+                                             <span class="text-grey">103 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3352,7 +3351,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_180613">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_180613">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_180613" type="film" mid="180613"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_180613").folder({objId: 180613, objType: "film", template : "shortest"});
@@ -3367,14 +3366,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">45</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/618287/">Иностранец (2017)</a></div>
+                                         <div class="nameRus"><a href="/film/618287/">РРЅРѕСЃС‚СЂР°РЅРµС† (2017)</a></div>
                                          <div class="nameEng">The Foreigner</div>
                                          <div class="rating">
                                              
                                                  <b>7.224</b>
                                                  <span class="text-grey">(119&nbsp;521)</span>
                                              
-                                             <span class="text-grey">113 мин.</span>
+                                             <span class="text-grey">113 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3383,7 +3382,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_618287">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_618287">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_618287" type="film" mid="618287"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_618287").folder({objId: 618287, objType: "film", template : "shortest"});
@@ -3398,14 +3397,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">46</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/409424/">Дюна (2021)</a></div>
+                                         <div class="nameRus"><a href="/film/409424/">Р”СЋРЅР° (2021)</a></div>
                                          <div class="nameEng">Dune: Part One</div>
                                          <div class="rating">
                                              
                                                  <b>7.673</b>
                                                  <span class="text-grey">(673&nbsp;799)</span>
                                              
-                                             <span class="text-grey">155 мин.</span>
+                                             <span class="text-grey">155 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3414,7 +3413,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_409424">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_409424">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_409424" type="film" mid="409424"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_409424").folder({objId: 409424, objType: "film", template : "shortest"});
@@ -3429,14 +3428,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">47</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/791178/">Круг (2015)</a></div>
+                                         <div class="nameRus"><a href="/film/791178/">РљСЂСѓРі (2015)</a></div>
                                          <div class="nameEng">Circle</div>
                                          <div class="rating">
                                              
                                                  <b>5.753</b>
                                                  <span class="text-grey">(9&nbsp;264)</span>
                                              
-                                             <span class="text-grey">87 мин.</span>
+                                             <span class="text-grey">87 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3445,7 +3444,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >6</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_791178">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_791178">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_791178" type="film" mid="791178"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_791178").folder({objId: 791178, objType: "film", template : "shortest"});
@@ -3460,14 +3459,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">48</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/1301710/">Игра в кальмара (сериал, 2021 &ndash; ...)</a></div>
+                                         <div class="nameRus"><a href="/series/1301710/">РРіСЂР° РІ РєР°Р»СЊРјР°СЂР° (СЃРµСЂРёР°Р», 2021 &ndash; ...)</a></div>
                                          <div class="nameEng">Ojingeo geim</div>
                                          <div class="rating">
                                              
                                                  <b>7.550</b>
                                                  <span class="text-grey">(223&nbsp;073)</span>
                                              
-                                             <span class="text-grey">50 мин.</span>
+                                             <span class="text-grey">50 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3476,7 +3475,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >5</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_1301710">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_1301710">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_1301710" type="film" mid="1301710"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_1301710").folder({objId: 1301710, objType: "film", template : "shortest"});
@@ -3491,14 +3490,14 @@ ancher = '#list';
                                 <div class="item">
                                       <div class="num">49</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/film/406/">Чужие (1986)</a></div>
+                                         <div class="nameRus"><a href="/film/406/">Р§СѓР¶РёРµ (1986)</a></div>
                                          <div class="nameEng">Aliens</div>
                                          <div class="rating">
                                              
                                                  <b>8.063</b>
                                                  <span class="text-grey">(234&nbsp;578)</span>
                                              
-                                             <span class="text-grey">137 мин.</span>
+                                             <span class="text-grey">137 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3507,7 +3506,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >8</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_406">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_406">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_406" type="film" mid="406"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_406").folder({objId: 406, objType: "film", template : "shortest"});
@@ -3522,14 +3521,14 @@ ancher = '#list';
                                 <div class="item even">
                                       <div class="num">50</div>
                                       <div class="info">
-                                         <div class="nameRus"><a href="/series/855898/">Эш против Зловещих мертвецов (сериал, 2015 &ndash; 2018)</a></div>
+                                         <div class="nameRus"><a href="/series/855898/">Р­С€ РїСЂРѕС‚РёРІ Р—Р»РѕРІРµС‰РёС… РјРµСЂС‚РІРµС†РѕРІ (СЃРµСЂРёР°Р», 2015 &ndash; 2018)</a></div>
                                          <div class="nameEng">Ash vs Evil Dead</div>
                                          <div class="rating">
                                              
                                                  <b>7.896</b>
                                                  <span class="text-grey">(32&nbsp;834)</span>
                                              
-                                             <span class="text-grey">30 мин.</span>
+                                             <span class="text-grey">30 РјРёРЅ.</span>
                                              &nbsp;
                                          </div>
                                          
@@ -3538,7 +3537,7 @@ ancher = '#list';
                                       
                                       <div class="vote" >4</div>
                                       <div class="selects vote_widget">
-                                        <span title="поставить оценку" id="rating_user_855898">&nbsp;</span>
+                                        <span title="РїРѕСЃС‚Р°РІРёС‚СЊ РѕС†РµРЅРєСѓ" id="rating_user_855898">&nbsp;</span>
                                         <div class="MyKP_Folder_Select shortestselect MyKP_Folder_855898" type="film" mid="855898"><s class="dot"></s><div class="arrow"></div></div>
                                         <script nonce="">
                                         $(".MyKP_Folder_855898").folder({objId: 855898, objType: "film", template : "shortest"});
@@ -3565,7 +3564,7 @@ ancher = '#list';
     
         
             <div class="show">
-                <u>показывать:</u>
+                <u>РїРѕРєР°Р·С‹РІР°С‚СЊ:</u>
                 <select class="navigator_per_page">
                     <option value="10">10</option>
                     <option value="25">25</option>
@@ -3606,7 +3605,7 @@ ancher = '#list';
             
         </ul>
     
-    <div class="pagesFromTo">1&mdash;50 из 1257</div>
+    <div class="pagesFromTo">1&mdash;50 РёР· 1257</div>
 </div>
 
                         </div>
@@ -3624,18 +3623,18 @@ ancher = '#list';
             <table style="width: 240px; white-space: nowrap; margin-bottom: 20px" cellspacing=0 cellpadding=10 border=0 bgcolor="#f2f2f2">
                 <tr>
                     <td style="text-align: left">
-                        <h5 style="font-size:12px;padding:0px;margin:5px;color:#007">Оценки в цифрах</h5>
+                        <h5 style="font-size:12px;padding:0px;margin:5px;color:#007">РћС†РµРЅРєРё РІ С†РёС„СЂР°С…</h5>
                         <table class="fontsize10" cellspacing=0 cellpadding=2 width=100% border=0>
-                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b style="width: 118px; display:block">всего записей</b></td><td>1256</td></tr>
+                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b style="width: 118px; display:block">РІСЃРµРіРѕ Р·Р°РїРёСЃРµР№</b></td><td>1256</td></tr>
 
-                            <tr><td style="padding-left: 0">&nbsp;</td><td><b>фильмы</td><td>1086</td></tr>
-                            <tr><td style="padding-left: 0">&nbsp;</td><td><b>сериалы</td><td>140</td></tr>
-                            <tr><td style="padding-left: 0">&nbsp;</td><td><b>короткометражки</td><td>30</td></tr>
+                            <tr><td style="padding-left: 0">&nbsp;</td><td><b>С„РёР»СЊРјС‹</td><td>1086</td></tr>
+                            <tr><td style="padding-left: 0">&nbsp;</td><td><b>СЃРµСЂРёР°Р»С‹</td><td>140</td></tr>
+                            <tr><td style="padding-left: 0">&nbsp;</td><td><b>РєРѕСЂРѕС‚РєРѕРјРµС‚СЂР°Р¶РєРё</td><td>30</td></tr>
 
-                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>средняя оценка</td><td>4.800</td></tr>
-                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>первая запись</td><td>14 мая 2012</td></tr>
-                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>последняя запись</td><td>26 декабря 2022</td></tr>
-                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>в среднем в месяц</td><td>11</td></tr>
+                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>СЃСЂРµРґРЅСЏСЏ РѕС†РµРЅРєР°</td><td>4.800</td></tr>
+                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>РїРµСЂРІР°СЏ Р·Р°РїРёСЃСЊ</td><td>14 РјР°СЏ 2012</td></tr>
+                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>РїРѕСЃР»РµРґРЅСЏСЏ Р·Р°РїРёСЃСЊ</td><td>26 РґРµРєР°Р±СЂСЏ 2022</td></tr>
+                            <tr><td style="padding-left: 0"><small>&#149;</small></td><td><b>РІ СЃСЂРµРґРЅРµРј РІ РјРµСЃСЏС†</td><td>11</td></tr>
                         </table>
                     </td>
                 </tr>
@@ -3672,19 +3671,19 @@ ancher = '#list';
 <table cellspacing=0 cellpadding=0 width=93% border=0>
 	<tr>
 		<td colspan=2 valign=top class="news">
-			<b><a href="/community/cf_user/2092256/" class="continue">Друзья по интересам (266)</a></b><br><small style="color:#777">они ставят похожие оценки фильмам</small>
+			<b><a href="/community/cf_user/2092256/" class="continue">Р”СЂСѓР·СЊСЏ РїРѕ РёРЅС‚РµСЂРµСЃР°Рј (266)</a></b><br><small style="color:#777">РѕРЅРё СЃС‚Р°РІСЏС‚ РїРѕС…РѕР¶РёРµ РѕС†РµРЅРєРё С„РёР»СЊРјР°Рј</small>
 		</td>
 	</tr>
 	<tr><td colspan=2><br></td></tr>
 	<tr>
-		<td width=75% height=18 bgcolor="#f2f2f2" style="padding-left:22px"><small style="color:#777">имя</small></td>
-		<td width=25% bgcolor="#f2f2f2"><small style="color:#777">близость</small></td>
+		<td width=75% height=18 bgcolor="#f2f2f2" style="padding-left:22px"><small style="color:#777">РёРјСЏ</small></td>
+		<td width=25% bgcolor="#f2f2f2"><small style="color:#777">Р±Р»РёР·РѕСЃС‚СЊ</small></td>
 	</tr>
 	<tr>
-   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/63063267/">Дима Болтач</a></p></td>
+   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/63063267/">Р”РёРјР° Р‘РѕР»С‚Р°С‡</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/63063267/votes/">99.423%</a></td>
 </tr><tr>
-   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/89830792/">ДядяБогдан</a></p></td>
+   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/89830792/">Р”СЏРґСЏР‘РѕРіРґР°РЅ</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/89830792/votes/">99.1931%</a></td>
 </tr><tr>
    <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/13862247/">Vaglevor</a></p></td>
@@ -3714,7 +3713,7 @@ ancher = '#list';
    <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/29397809/">depressedkid14yearsold</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/29397809/votes/">86.597%</a></td>
 </tr><tr>
-   <td><p class="profile_name profile_name_ya" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/16149934/">Міша Гринь</a></p></td>
+   <td><p class="profile_name profile_name_ya" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/16149934/">РњС–С€Р° Р“СЂРёРЅСЊ</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/16149934/votes/">83.8879%</a></td>
 </tr><tr>
    <td><p class="profile_name profile_name_vk" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/14913963/">injustice99</a></p></td>
@@ -3723,7 +3722,7 @@ ancher = '#list';
    <td><p class="profile_name profile_name_ya" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/16341321/">Atziri</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/16341321/votes/">81.3637%</a></td>
 </tr><tr>
-   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/76656190/">Сергей Златовчен</a></p></td>
+   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/76656190/">РЎРµСЂРіРµР№ Р—Р»Р°С‚РѕРІС‡РµРЅ</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/76656190/votes/">80.6283%</a></td>
 </tr><tr>
    <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/24376642/">FETT171</a></p></td>
@@ -3738,13 +3737,13 @@ ancher = '#list';
    <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/30128835/">Wolfgang_A</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/30128835/votes/">79.2059%</a></td>
 </tr><tr>
-   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/37590386/">Дарья Хэйли</a></p></td>
+   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/37590386/">Р”Р°СЂСЊСЏ РҐСЌР№Р»Рё</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/37590386/votes/">78.7311%</a></td>
 </tr><tr>
    <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/13888619/">exp1oit</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/13888619/votes/">78.4748%</a></td>
 </tr><tr>
-   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/22980861/">Кирилл Апанкевич - 9648</a></p></td>
+   <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/22980861/">РљРёСЂРёР»Р» РђРїР°РЅРєРµРІРёС‡ - 9648</a></p></td>
    <td style="font-size: 10px"><a style="color: #777; text-decoration: underline" href="/user/22980861/votes/">78.4245%</a></td>
 </tr><tr>
    <td><p class="profile_name" style="height: auto; font-size: 11px; margin-left: 3px; padding-top: 6px"><s style="top: 6px"></s><a href="/user/23361863/">wranzs</a></p></td>
@@ -3791,7 +3790,7 @@ ancher = '#list';
         </div> <!-- content block -->
     
         <div id="footer_wrapper">
-        <div id="partial_component__footer"><div class="partial-component-layout" data-tid="1014704"><footer class="footer-partial-component fMkvGCad_szrQSidUYge suKEnljWeQvAxkEuPuNM" data-tid="995d0553"><section class="JdxE9JUIuDyAU6jhmfX3 social-icons NrjFBFP0i8nN3PziarKQ" data-tid="39df70f"><a class="hdfqOqu1my6iiPHUBT8h" href="https://vk.com/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/118781/0ae3d1ca27d3794204beec7d3810025f8c2b7e87/svg" alt="https://vk.com/kinopoisk" loading="lazy" data-tid="9107e4a2"/></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://twitter.com/kinopoiskru" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/61205/97123f0bc0c689932a2fb6b62d3ab8ce04d7e936/svg" alt="https://twitter.com/kinopoiskru" loading="lazy" data-tid="9107e4a2"/></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://telegram.me/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/56833/9f570502e378d5e28a5a173a273fa811c4490a73/svg" alt="https://telegram.me/kinopoisk" loading="lazy" data-tid="9107e4a2"/></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://www.youtube.com/user/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/128809/65fe1abdd405eb82aec7490588a1ec6745d9ab87/svg" alt="https://www.youtube.com/user/kinopoisk" loading="lazy" data-tid="9107e4a2"/></a></section><ul class="footer-partial-component__content-links vq0uHmuKUnpO5tEowzCI"><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/jobs/vacancies?services=kinopoisk" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Вакансии</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/adv/products/display/kinopoiskmedia" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Реклама</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/docs/usage/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Соглашение</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/support/kinopoisk/index.html" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Справка</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/media/rubric/19/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Блог</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://kinopoisk.userecho.com/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Предложения</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw"><button type="button" class="kHAd6wjilDf5FvfljU35">Служба поддержки</button></li></ul><div class="TmJ7s9VrB8nAJXSMZmvj oDdzmoS9uTCL5YmqjHsQ NKUrqVtZTGy303AUpSQE" data-tid="358cef48"><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/mainView?appmetrica_tracking_id=170895231946863928" target="_blank" rel="noopener noreferrer" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/128809/12b96dbf545bbbdec363f558998f5d21930ecad7/svg" alt="Загрузить приложение" loading="lazy"/></a><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/?appmetrica_tracking_id=603240792315703184" target="_blank" rel="noopener noreferrer" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/128809/4a0c0e5dfc0393df6d57bc9835c61669a8d5a0cd/svg" alt="Загрузить приложение" loading="lazy"/></a><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/?appmetrica_tracking_id=1179706852124993595" target="_blank" rel="noopener noreferrer" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/135516/e780f1f5dc4409a971b196ad702b111c785e0faf/svg" alt="Загрузить приложение" loading="lazy"/></a></div><section class="ncTXT_vS9nAoAXOngZ7p footer-partial-component__bottom"><div class="_r6JqJaXacreIH6QLpZp footer-partial-component__bottom-info"><span class="Gkbnxl8jGulZlmeKOvaQ footer-partial-component__bottom-info-year">© 2003 — <!-- -->2023<!-- -->,</span><a class="n4e6FBNkaXqsTaIuDWuE footer-partial-component__bottom-info-link" href="https://www.kinopoisk.ru/" target="_blank" rel="noopener noreferrer" data-tid="2e9b873">Кинопоиск</a><span class="oO9uBOK5MrXrTsmB_I5y footer-partial-component__bottom-info-age">18<!-- -->+</span></div><ul class="GFgKj_MkZFxe_SJsPqrI footer-partial-component__bottom-links"><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://tv.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Телепрограмма</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://music.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Музыка</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://afisha.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Афиша</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://bookmate.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Букмейт</a></li></ul><div class="uBhn0Nm_e5fOpU9EzH6g footer-partial-component__bottom-company"><span class="RGizSIr2L0fr_xk9Uf7v footer-partial-component__bottom-company-name">Проект компании</span><a class="LhN_U2wMaJH5Tpg0cA7Y footer-partial-component__bottom-company-logo" href="https://yandex.ru/all" target="_blank" rel="noopener noreferrer" data-tid="2e9b873">Яндекс</a></div></section></footer></div></div>
+        <div id="partial_component__footer"><div class="partial-component-layout" data-tid="1014704"><footer class="footer-partial-component fMkvGCad_szrQSidUYge suKEnljWeQvAxkEuPuNM" data-tid="995d0553"><section class="JdxE9JUIuDyAU6jhmfX3 social-icons NrjFBFP0i8nN3PziarKQ" data-tid="39df70f"><a class="hdfqOqu1my6iiPHUBT8h" href="https://vk.com/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/118781/0ae3d1ca27d3794204beec7d3810025f8c2b7e87/svg" alt="https://vk.com/kinopoisk" loading="lazy" data-tid="9107e4a2"/></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://twitter.com/kinopoiskru" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/61205/97123f0bc0c689932a2fb6b62d3ab8ce04d7e936/svg" alt="https://twitter.com/kinopoiskru" loading="lazy" data-tid="9107e4a2"/></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://telegram.me/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/56833/9f570502e378d5e28a5a173a273fa811c4490a73/svg" alt="https://telegram.me/kinopoisk" loading="lazy" data-tid="9107e4a2"/></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://www.youtube.com/user/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="presentation" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/128809/65fe1abdd405eb82aec7490588a1ec6745d9ab87/svg" alt="https://www.youtube.com/user/kinopoisk" loading="lazy" data-tid="9107e4a2"/></a></section><ul class="footer-partial-component__content-links vq0uHmuKUnpO5tEowzCI"><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/jobs/vacancies?services=kinopoisk" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Р’Р°РєР°РЅСЃРёРё</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/adv/products/display/kinopoiskmedia" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Р РµРєР»Р°РјР°</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/docs/usage/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">РЎРѕРіР»Р°С€РµРЅРёРµ</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/support/kinopoisk/index.html" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">РЎРїСЂР°РІРєР°</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/media/rubric/19/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Р‘Р»РѕРі</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://kinopoisk.userecho.com/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">РџСЂРµРґР»РѕР¶РµРЅРёСЏ</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw"><button type="button" class="kHAd6wjilDf5FvfljU35">РЎР»СѓР¶Р±Р° РїРѕРґРґРµСЂР¶РєРё</button></li></ul><div class="TmJ7s9VrB8nAJXSMZmvj oDdzmoS9uTCL5YmqjHsQ NKUrqVtZTGy303AUpSQE" data-tid="358cef48"><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/mainView?appmetrica_tracking_id=170895231946863928" target="_blank" rel="noopener noreferrer" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/128809/12b96dbf545bbbdec363f558998f5d21930ecad7/svg" alt="Р—Р°РіСЂСѓР·РёС‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ" loading="lazy"/></a><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/?appmetrica_tracking_id=603240792315703184" target="_blank" rel="noopener noreferrer" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/128809/4a0c0e5dfc0393df6d57bc9835c61669a8d5a0cd/svg" alt="Р—Р°РіСЂСѓР·РёС‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ" loading="lazy"/></a><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/?appmetrica_tracking_id=1179706852124993595" target="_blank" rel="noopener noreferrer" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/135516/e780f1f5dc4409a971b196ad702b111c785e0faf/svg" alt="Р—Р°РіСЂСѓР·РёС‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ" loading="lazy"/></a></div><section class="ncTXT_vS9nAoAXOngZ7p footer-partial-component__bottom"><div class="_r6JqJaXacreIH6QLpZp footer-partial-component__bottom-info"><span class="Gkbnxl8jGulZlmeKOvaQ footer-partial-component__bottom-info-year">В© 2003 вЂ” <!-- -->2023<!-- -->,</span><a class="n4e6FBNkaXqsTaIuDWuE footer-partial-component__bottom-info-link" href="https://www.kinopoisk.ru/" target="_blank" rel="noopener noreferrer" data-tid="2e9b873">РљРёРЅРѕРїРѕРёСЃРє</a><span class="oO9uBOK5MrXrTsmB_I5y footer-partial-component__bottom-info-age">18<!-- -->+</span></div><ul class="GFgKj_MkZFxe_SJsPqrI footer-partial-component__bottom-links"><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://tv.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">РўРµР»РµРїСЂРѕРіСЂР°РјРјР°</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://music.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">РњСѓР·С‹РєР°</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://afisha.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">РђС„РёС€Р°</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://bookmate.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Р‘СѓРєРјРµР№С‚</a></li></ul><div class="uBhn0Nm_e5fOpU9EzH6g footer-partial-component__bottom-company"><span class="RGizSIr2L0fr_xk9Uf7v footer-partial-component__bottom-company-name">РџСЂРѕРµРєС‚ РєРѕРјРїР°РЅРёРё</span><a class="LhN_U2wMaJH5Tpg0cA7Y footer-partial-component__bottom-company-logo" href="https://yandex.ru/all" target="_blank" rel="noopener noreferrer" data-tid="2e9b873">РЇРЅРґРµРєСЃ</a></div></section></footer></div></div>
 
 </div> <!-- END of footer -->
 

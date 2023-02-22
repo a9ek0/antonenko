@@ -358,3 +358,13 @@ void check_same(int *first_number, int *second_number) {
     }
     }
 }
+
+void parce(char *name)
+{
+    FILE *f;
+    f = fopen(name, "rt");
+    while(!(feof(f)))
+    {
+
+    }
+}

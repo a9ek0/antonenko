@@ -4,12 +4,9 @@
 //////////////////////////////ПРОВЕРКИ НАДО СДЕЛАТЬ
 int main()
 {
-    int size;
+    int size = 0;
     struct film *da;
-    init_struct(&da, &size);
-    arr_struct_create(da, size);
-    double_sort(da, size);
-    arr_structure_print(da, size);
-    //menu(da, size);
+    menu(&da, &size);
+    printf("1");
     return 0;
 }

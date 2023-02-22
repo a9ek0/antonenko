@@ -7,7 +7,7 @@ void free_struct(film_func *structure, int num_of_elements)
     free(structure);
 }
 
-void menu(film_func *structure, int num_of_elements)
+void menu(film_func *structure, int *num_of_elements)
 {
     int a;
     int k = 0;
@@ -24,7 +24,7 @@ void menu(film_func *structure, int num_of_elements)
         switch (a)
         {
             case 1:
-                init_struct(&structure, &num_of_elements);
+                init_struct(&structure, num_of_elements);
                 k = 1;
                 break;
             case 2:
@@ -33,7 +33,7 @@ void menu(film_func *structure, int num_of_elements)
                     printf("You didn't initialize the array.\n");
                     break;
                 }
-                arr_struct_create(structure, num_of_elements);
+                arr_struct_create(structure, *num_of_elements);
                 k = 2;
                 break;
             case 3:
@@ -42,7 +42,7 @@ void menu(film_func *structure, int num_of_elements)
                     printf("You didn't fill/initialize the array.\n");
                     break;
                 }
-                double_sort(structure, num_of_elements);
+                double_sort(structure, *num_of_elements);
                 break;
             case 4:
                 if(k != 2)
@@ -50,7 +50,7 @@ void menu(film_func *structure, int num_of_elements)
                     printf("You didn't fill/initialize the array.\n");
                     break;
                 }
-                arr_structure_print(structure, num_of_elements);
+                arr_structure_print(structure, *num_of_elements);
                 break;
             case 5:
             {
@@ -59,42 +59,47 @@ void menu(film_func *structure, int num_of_elements)
                     printf("You didn't fill/initialize the array.\n");
                     break;
                 }
-                dell_struct(structure, &num_of_elements);
+                dell_struct(structure, num_of_elements);
                 break;
             }
             case 6:
+            {
                 k = 3;
                 break;
+            }
             default:
+            {
                 printf("Wrong input!");
                 break;
+            }
         }
     }
-    free_struct(structure, num_of_elements);
+    free_struct(structure, *num_of_elements);
+    exit(0);
 }
 
-film_func* reallocate_structure(struct film **structure, const int* new_size)
+void reallocate_structure(struct film **structure, const int* new_size)
 {
     *structure = (film_func*)realloc(*structure, *new_size * sizeof (film_func));
 }
 
 
-film_func* allocate_structure(struct film **structure, const int* new_size)
+void allocate_structure(struct film **structure, const int* new_size)
 {
     *structure = (film_func*)malloc(*new_size * sizeof (film_func));
 }
 
-film_func* init_struct(struct film **structure,int *num_of_elements)
+void init_struct(struct film **structure,int *num_of_elements)
 {
     printf("Enter number of structures in array.\n");
     check_more_0(num_of_elements);
-    *structure = (film_func*)realloc(*structure, *num_of_elements * sizeof (film_func));
+    *structure = (film_func*)malloc( *num_of_elements * sizeof (film_func));
 }
 
 void dell_struct(struct film *structure, int* num_of_elements)
 {
     int film_name;
-    printf("\nChoose film that you want to dellete.\n");
+    printf("\nChoose film that you want to delete.\n");
     for (int k = 0; k < *num_of_elements; k++)
     {
         printf("%d: %s\n", k, structure[k].name);
@@ -138,20 +143,17 @@ void double_sort(struct film *structure, int num_of_elements)
     int first;
     int second;
     int cnt = 0;
-    int expression;
     while(cnt != 2) {
     printf("\nChoose sorting field.\n 1.Sort by name.\n 2.Sort by rating.\n 3.Sort by length\n");
         if(cnt == 1)
         {
             check_l4(&second);
-            expression = second;
         }
         else
-        {
             check_l4(&first);
-            expression = first;
-        }
-        switch (expression) {
+
+        check_same(&second, &first);
+        switch (first) {
             case 1:
                 name_sort(structure, num_of_elements);
                 break;
@@ -176,7 +178,7 @@ void param_sort(struct film *structure, int num_of_elements, int first, int cons
     {
         for (int j = 0; j < num_of_elements - 1; ++j)
         {
-            COMPARE(structure[j].length, structure[j + 1].length, arr[1])
+            COMPARE(structure[j].length, structure[j + 1].length, arr[3])
             COMPARE(structure[j].rating, structure[j + 1].rating, arr[2])
             arr[1] = strcmp(structure[j].name, structure[j + 1].name);
             if(arr[first] > 0 && arr[second] > 0)
@@ -308,5 +310,16 @@ void check(int *value)
     {
         printf("Wrong input");
         rewind(stdin);
+    }
+}
+
+void check_same(int *first_number, int *second_number) {
+    if(*first_number == *second_number)
+    {
+        printf("You have chosen the same options! Please choose another option");
+    while (scanf_s("%d", first_number) == 0 || getchar() != '\n' || *first_number > 3 || *first_number == *second_number) {
+        printf("You have chosen the same options! Please choose another option");
+        rewind(stdin);
+    }
     }
 }

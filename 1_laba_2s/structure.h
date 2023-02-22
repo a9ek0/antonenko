@@ -32,17 +32,21 @@ void double_sort(struct film *structure, int num_of_elements);
 void set_text_color(int color);
 void dell_struct(struct film *structure, int* num_of_elements);
 void init_struct_arr(struct film *structure, int *num_of_elements);
-film_func* init_struct(struct film **structure,int *num_of_elements);
-film_func* allocate_structure(struct film **structure, const int* new_size);
-film_func* reallocate_structure(struct film **structure, const int* new_size);
+
+void init_struct(struct film **structure,int *num_of_elements);
+void allocate_structure(struct film **structure, const int* new_size);
+void reallocate_structure(struct film **structure, const int* new_size);
+
 void free_struct(film_func *structure, int num_of_elements);
 void check_more_0(int *value);
 void check(int *value);
 void check_l4(int *value);
 void check_in_range(int *value, int left_boarder, int right_boarder);
+void check_same(int *first_number, int *second_number);
 
 
-_Noreturn void menu(film_func *structure, int num_of_elements);
+
+void menu(film_func *structure, int *num_of_elements);
 
 
 

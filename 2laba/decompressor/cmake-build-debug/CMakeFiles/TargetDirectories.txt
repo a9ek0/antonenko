@@ -1,3 +1,0 @@
-C:/Users/Alexander/Documents/GitHub/Sergei-Pirat-2009-mp3/2laba/decompressor/cmake-build-debug/CMakeFiles/decompressor.dir
-C:/Users/Alexander/Documents/GitHub/Sergei-Pirat-2009-mp3/2laba/decompressor/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Alexander/Documents/GitHub/Sergei-Pirat-2009-mp3/2laba/decompressor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

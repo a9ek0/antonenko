@@ -1,0 +1,3 @@
+C:/Users/Alexander/Documents/GitHub/antonenko/2laba_2s/cmake-build-debug/CMakeFiles/2laba.dir
+C:/Users/Alexander/Documents/GitHub/antonenko/2laba_2s/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexander/Documents/GitHub/antonenko/2laba_2s/cmake-build-debug/CMakeFiles/rebuild_cache.dir
